@@ -104,169 +104,110 @@
         ]
       }
     },
-    "Total collisions": {
+    "Occurrence": {
       "type": "dimension",
       "code_list": {
-        "title": "Total collisions",
-        "summary": "Total collisions",
+        "title": "Occurrence",
+        "summary": "Occurrence",
         "concepts": [
+          {
+            "label": "Fatal collisions",
+            "description": "Fatal collisions",
+            "notation": "Fatal collisions",
+            "sort_order": 1
+          },
+          {
+            "label": "Serious collisions (unadjusted)",
+            "description": "Serious collisions (unadjusted)",
+            "notation": "Serious collisions (unadjusted)",
+            "sort_order": 2
+          },
+          {
+            "label": "Serious collisions (adjusted)",
+            "description": "Serious collisions (adjusted)",
+            "notation": "Serious collisions (adjusted)",
+            "sort_order": 3
+          },
+          {
+            "label": "Slight collisions (unadjusted)",
+            "description": "Slight collisions (unadjusted)",
+            "notation": "Slight collisions (unadjusted)",
+            "sort_order": 4
+          },
+          {
+            "label": "Slight collisions (adjusted)",
+            "description": "Slight collisions (adjusted)",
+            "notation": "Slight collisions (adjusted)",
+            "sort_order": 5
+          },
           {
             "label": "Total collisions",
             "description": "Total collisions",
             "notation": "Total collisions",
-            "sort_order": 0,
-            "children": [
-              {
-                "label": "Fatal collisions",
-                "description": "Fatal collisions",
-                "notation": "Fatal collisions",
-                "sort_order": 1
-              },
-              {
-                "label": "Serious collisions (unadjusted)",
-                "description": "Serious collisions (unadjusted)",
-                "notation": "Serious collisions (unadjusted)",
-                "sort_order": 2
-              },
-              {
-                "label": "Serious collisions (adjusted)",
-                "description": "Serious collisions (adjusted)",
-                "notation": "Serious collisions (adjusted)",
-                "sort_order": 3
-              },
-              {
-                "label": "Slight collisions (unadjusted)",
-                "description": "Slight collisions (unadjusted)",
-                "notation": "Slight collisions (unadjusted)",
-                "sort_order": 4
-              },
-              {
-                "label": "Slight collisions (adjusted)",
-                "description": "Slight collisions (adjusted)",
-                "notation": "Slight collisions (adjusted)",
-                "sort_order": 5
-              }
-            ]
-          }
-        ]
-      }
-    },
-    "Killed": {
-      "type": "dimension",
-      "code_list": {
-        "title": "Killed",
-        "summary": "Killed",
-        "concepts": [
+            "sort_order": 6
+          },
           {
             "label": "Killed",
             "description": "Killed",
             "notation": "Killed",
-            "sort_order": 0
-          }
-        ]
-      }
-    },
-    "Seriously injured (unadjusted) ": {
-      "type": "dimension",
-      "code_list": {
-        "title": "Seriously injured (unadjusted) ",
-        "summary": "Seriously injured (unadjusted) ",
-        "concepts": [
+            "sort_order": 7
+          },
           {
-            "label": "Seriously injured (unadjusted) ",
-            "description": "Seriously injured (unadjusted) ",
-            "notation": "Seriously injured (unadjusted) ",
-            "sort_order": 0
-          }
-        ]
-      }
-    },
-    "Seriously injured (adjusted)": {
-      "type": "dimension",
-      "code_list": {
-        "title": "Seriously injured (adjusted)",
-        "summary": "Seriously injured (adjusted)",
-        "concepts": [
+            "label": "Seriously injured (unadjusted)",
+            "description": "Seriously injured (unadjusted)",
+            "notation": "Seriously injured (unadjusted)",
+            "sort_order": 8
+          },
           {
             "label": "Seriously injured (adjusted)",
             "description": "Seriously injured (adjusted)",
             "notation": "Seriously injured (adjusted)",
-            "sort_order": 0
-          }
-        ]
-      }
-    },
-    "Killed or seriously injured (KSI) unadjusted": {
-      "type": "dimension",
-      "code_list": {
-        "title": "Killed or seriously injured (KSI) unadjusted",
-        "summary": "Killed or seriously injured (KSI) unadjusted",
-        "concepts": [
+            "sort_order": 9
+          },
           {
             "label": "Killed or seriously injured (KSI) unadjusted",
             "description": "Killed or seriously injured (KSI) unadjusted",
             "notation": "Killed or seriously injured (KSI) unadjusted",
-            "sort_order": 0
-          }
-        ]
-      }
-    },
-    "Killed or seriously injured (KSI) adjusted": {
-      "type": "dimension",
-      "code_list": {
-        "title": "Killed or seriously injured (KSI) adjusted",
-        "summary": "Killed or seriously injured (KSI) adjusted",
-        "concepts": [
+            "sort_order": 10
+          },
           {
             "label": "Killed or seriously injured (KSI) adjusted",
             "description": "Killed or seriously injured (KSI) adjusted",
             "notation": "Killed or seriously injured (KSI) adjusted",
-            "sort_order": 0
-          }
-        ]
-      }
-    },
-    "Slightly injured (unadjusted)": {
-      "type": "dimension",
-      "code_list": {
-        "title": "Slightly injured (unadjusted)",
-        "summary": "Slightly injured (unadjusted)",
-        "concepts": [
+            "sort_order": 11
+          },
           {
             "label": "Slightly injured (unadjusted)",
             "description": "Slightly injured (unadjusted)",
             "notation": "Slightly injured (unadjusted)",
-            "sort_order": 0
-          }
-        ]
-      }
-    },
-    "Slightly injured (adjusted)": {
-      "type": "dimension",
-      "code_list": {
-        "title": "Slightly injured (adjusted)",
-        "summary": "Slightly injured (adjusted)",
-        "concepts": [
+            "sort_order": 12
+          },
           {
             "label": "Slightly injured (adjusted)",
             "description": "Slightly injured (adjusted)",
             "notation": "Slightly injured (adjusted)",
-            "sort_order": 0
+            "sort_order": 13
+          },
+          {
+            "label": "Total casualties",
+            "description": "Total casualties",
+            "notation": "Total casualties",
+            "sort_order": 14
           }
         ]
       }
-    }
-  },
-  "Total casualties": {
-    "type": "observation",
-    "measure": {
-      "label": "count_of_people",
-      "from_existing": "https://purl.org/csv-cubed/resources/measures#count_of_people"
     },
-    "data_type": "integer",
-    "unit": {
-      "label": "Number",
-      "from_existing": "http://qudt.org/vocab/unit/NUM"
+    "Observation": {
+      "type": "observation",
+      "measure": {
+        "label": "count_of_people",
+        "from_existing": "https://purl.org/csv-cubed/resources/measures#count_of_people"
+      },
+      "data_type": "integer",
+      "unit": {
+        "label": "Number",
+        "from_existing": "http://qudt.org/vocab/unit/NUM"
+      }
     }
   }
 }
