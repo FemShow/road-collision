@@ -1,0 +1,272 @@
+{
+  "$schema": "https://purl.org/csv-cubed/qube-config/v1",
+  "title": "Estimated number of reported drink drive collisions in Great Britain by country and English region",
+  "description": "Estimated number of reported drink drive collisions in Great Britain by country and English region",
+  "creator": "https://www.gov.uk/government/organisations/department-for-transport",
+  "publisher": "https://www.gov.uk/government/organisations/office-for-national-statistics",
+  "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "keywords": [
+    "fatalities",
+    "injuries",
+    "collisions"
+  ],
+  "columns": {
+    "Year": {
+      "from_template": "government-year"
+    },
+    "Country Code": {
+      "from_template": "statistical-geography"
+    },
+    "Region or country": {
+      "type": "dimension",
+      "code_list": {
+        "title": "Region or country",
+        "summary": "Region or country",
+        "concepts": [
+          {
+            "label": "North East",
+            "description": "North East",
+            "notation": "E12000001",
+            "sort_order": 1
+          },
+          {
+            "label": "North West",
+            "description": "North West",
+            "notation": "E12000002",
+            "sort_order": 2
+          },
+          {
+            "label": "Yorkshire and Humberside",
+            "description": "Yorkshire and Humberside",
+            "notation": "E12000003",
+            "sort_order": 3
+          },
+          {
+            "label": "East Midlands",
+            "description": "East Midlands",
+            "notation": "E12000004",
+            "sort_order": 4
+          },
+          {
+            "label": "West Midlands",
+            "description": "West Midlands",
+            "notation": "E12000005",
+            "sort_order": 5
+          },
+          {
+            "label": "Eastern",
+            "description": "Eastern",
+            "notation": "E12000006",
+            "sort_order": 6
+          },
+          {
+            "label": "South East",
+            "description": "South East",
+            "notation": "E12000007",
+            "sort_order": 7
+          },
+          {
+            "label": "London",
+            "description": "London",
+            "notation": "E12000008",
+            "sort_order": 8
+          },
+          {
+            "label": "South West",
+            "description": "South West",
+            "notation": "E12000009",
+            "sort_order": 9
+          },
+          {
+            "label": "England",
+            "description": "England",
+            "notation": "E92000001",
+            "sort_order": 10
+          },
+          {
+            "label": "Wales",
+            "description": "Wales",
+            "notation": "W92000004",
+            "sort_order": 11
+          },
+          {
+            "label": "Scotland",
+            "description": "Scotland",
+            "notation": "S92000003",
+            "sort_order": 12
+          },
+          {
+            "label": "Great Britain",
+            "description": "Great Britain",
+            "notation": "K02000001",
+            "sort_order": 13
+          }
+        ]
+      }
+    },
+    "Total collisions": {
+      "type": "dimension",
+      "code_list": {
+        "title": "Total collisions",
+        "summary": "Total collisions",
+        "concepts": [
+          {
+            "label": "Total collisions",
+            "description": "Total collisions",
+            "notation": "Total collisions",
+            "sort_order": 0,
+            "children": [
+              {
+                "label": "Fatal collisions",
+                "description": "Fatal collisions",
+                "notation": "Fatal collisions",
+                "sort_order": 1
+              },
+              {
+                "label": "Serious collisions (unadjusted)",
+                "description": "Serious collisions (unadjusted)",
+                "notation": "Serious collisions (unadjusted)",
+                "sort_order": 2
+              },
+              {
+                "label": "Serious collisions (adjusted)",
+                "description": "Serious collisions (adjusted)",
+                "notation": "Serious collisions (adjusted)",
+                "sort_order": 3
+              },
+              {
+                "label": "Slight collisions (unadjusted)",
+                "description": "Slight collisions (unadjusted)",
+                "notation": "Slight collisions (unadjusted)",
+                "sort_order": 4
+              },
+              {
+                "label": "Slight collisions (adjusted)",
+                "description": "Slight collisions (adjusted)",
+                "notation": "Slight collisions (adjusted)",
+                "sort_order": 5
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "Killed": {
+      "type": "dimension",
+      "code_list": {
+        "title": "Killed",
+        "summary": "Killed",
+        "concepts": [
+          {
+            "label": "Killed",
+            "description": "Killed",
+            "notation": "Killed",
+            "sort_order": 0
+          }
+        ]
+      }
+    },
+    "Seriously injured (unadjusted) ": {
+      "type": "dimension",
+      "code_list": {
+        "title": "Seriously injured (unadjusted) ",
+        "summary": "Seriously injured (unadjusted) ",
+        "concepts": [
+          {
+            "label": "Seriously injured (unadjusted) ",
+            "description": "Seriously injured (unadjusted) ",
+            "notation": "Seriously injured (unadjusted) ",
+            "sort_order": 0
+          }
+        ]
+      }
+    },
+    "Seriously injured (adjusted)": {
+      "type": "dimension",
+      "code_list": {
+        "title": "Seriously injured (adjusted)",
+        "summary": "Seriously injured (adjusted)",
+        "concepts": [
+          {
+            "label": "Seriously injured (adjusted)",
+            "description": "Seriously injured (adjusted)",
+            "notation": "Seriously injured (adjusted)",
+            "sort_order": 0
+          }
+        ]
+      }
+    },
+    "Killed or seriously injured (KSI) unadjusted": {
+      "type": "dimension",
+      "code_list": {
+        "title": "Killed or seriously injured (KSI) unadjusted",
+        "summary": "Killed or seriously injured (KSI) unadjusted",
+        "concepts": [
+          {
+            "label": "Killed or seriously injured (KSI) unadjusted",
+            "description": "Killed or seriously injured (KSI) unadjusted",
+            "notation": "Killed or seriously injured (KSI) unadjusted",
+            "sort_order": 0
+          }
+        ]
+      }
+    },
+    "Killed or seriously injured (KSI) adjusted": {
+      "type": "dimension",
+      "code_list": {
+        "title": "Killed or seriously injured (KSI) adjusted",
+        "summary": "Killed or seriously injured (KSI) adjusted",
+        "concepts": [
+          {
+            "label": "Killed or seriously injured (KSI) adjusted",
+            "description": "Killed or seriously injured (KSI) adjusted",
+            "notation": "Killed or seriously injured (KSI) adjusted",
+            "sort_order": 0
+          }
+        ]
+      }
+    },
+    "Slightly injured (unadjusted)": {
+      "type": "dimension",
+      "code_list": {
+        "title": "Slightly injured (unadjusted)",
+        "summary": "Slightly injured (unadjusted)",
+        "concepts": [
+          {
+            "label": "Slightly injured (unadjusted)",
+            "description": "Slightly injured (unadjusted)",
+            "notation": "Slightly injured (unadjusted)",
+            "sort_order": 0
+          }
+        ]
+      }
+    },
+    "Slightly injured (adjusted)": {
+      "type": "dimension",
+      "code_list": {
+        "title": "Slightly injured (adjusted)",
+        "summary": "Slightly injured (adjusted)",
+        "concepts": [
+          {
+            "label": "Slightly injured (adjusted)",
+            "description": "Slightly injured (adjusted)",
+            "notation": "Slightly injured (adjusted)",
+            "sort_order": 0
+          }
+        ]
+      }
+    }
+  },
+  "Total casualties": {
+    "type": "observation",
+    "measure": {
+      "label": "count_of_people",
+      "from_existing": "https://purl.org/csv-cubed/resources/measures#count_of_people"
+    },
+    "data_type": "integer",
+    "unit": {
+      "label": "Number",
+      "from_existing": "http://qudt.org/vocab/unit/NUM"
+    }
+  }
+}
