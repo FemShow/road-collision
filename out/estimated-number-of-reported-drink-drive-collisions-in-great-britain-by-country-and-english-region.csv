@@ -1,0 +1,2185 @@
+Year,Country Code,Region or country,Occurence,Observation
+2021,E12000001,north-east,Fatal collisions,10
+2021,E12000002,north-west,Fatal collisions,20
+2021,E12000003,yorkshire-and-humberside,Fatal collisions,20
+2021,E12000004,east-midlands,Fatal collisions,20
+2021,E12000005,west-midlands,Fatal collisions,30
+2021,E12000006,eastern,Fatal collisions,50
+2021,E12000007,south-east,Fatal collisions,30
+2021,E12000008,london,Fatal collisions,10
+2021,E12000009,south-west,Fatal collisions,30
+2021,E92000001,england,Fatal collisions,220
+2021,W92000004,wales,Fatal collisions,10
+2021,S92000003,scotland,Fatal collisions,10
+2021,K02000001,great-britain,Fatal collisions,240
+2020,E12000001,north-east,Fatal collisions,10
+2020,E12000002,north-west,Fatal collisions,20
+2020,E12000003,yorkshire-and-humberside,Fatal collisions,20
+2020,E12000004,east-midlands,Fatal collisions,20
+2020,E12000005,west-midlands,Fatal collisions,20
+2020,E12000006,eastern,Fatal collisions,20
+2020,E12000007,south-east,Fatal collisions,40
+2020,E12000008,london,Fatal collisions,10
+2020,E12000009,south-west,Fatal collisions,20
+2020,E92000001,england,Fatal collisions,180
+2020,W92000004,wales,Fatal collisions,10
+2020,S92000003,scotland,Fatal collisions,10
+2020,K02000001,great-britain,Fatal collisions,200
+2019,E12000001,north-east,Fatal collisions,10
+2019,E12000002,north-west,Fatal collisions,10
+2019,E12000003,yorkshire-and-humberside,Fatal collisions,20
+2019,E12000004,east-midlands,Fatal collisions,20
+2019,E12000005,west-midlands,Fatal collisions,20
+2019,E12000006,eastern,Fatal collisions,30
+2019,E12000007,south-east,Fatal collisions,40
+2019,E12000008,london,Fatal collisions,10
+2019,E12000009,south-west,Fatal collisions,20
+2019,E92000001,england,Fatal collisions,180
+2019,W92000004,wales,Fatal collisions,10
+2019,S92000003,scotland,Fatal collisions,20
+2019,K02000001,great-britain,Fatal collisions,210
+2018,E12000001,north-east,Fatal collisions,0
+2018,E12000002,north-west,Fatal collisions,30
+2018,E12000003,yorkshire-and-humberside,Fatal collisions,20
+2018,E12000004,east-midlands,Fatal collisions,30
+2018,E12000005,west-midlands,Fatal collisions,10
+2018,E12000006,eastern,Fatal collisions,20
+2018,E12000007,south-east,Fatal collisions,30
+2018,E12000008,london,Fatal collisions,10
+2018,E12000009,south-west,Fatal collisions,20
+2018,E92000001,england,Fatal collisions,180
+2018,W92000004,wales,Fatal collisions,10
+2018,S92000003,scotland,Fatal collisions,20
+2018,K02000001,great-britain,Fatal collisions,210
+2017,E12000001,north-east,Fatal collisions,0
+2017,E12000002,north-west,Fatal collisions,20
+2017,E12000003,yorkshire-and-humberside,Fatal collisions,20
+2017,E12000004,east-midlands,Fatal collisions,20
+2017,E12000005,west-midlands,Fatal collisions,30
+2017,E12000006,eastern,Fatal collisions,30
+2017,E12000007,south-east,Fatal collisions,40
+2017,E12000008,london,Fatal collisions,10
+2017,E12000009,south-west,Fatal collisions,30
+2017,E92000001,england,Fatal collisions,200
+2017,W92000004,wales,Fatal collisions,10
+2017,S92000003,scotland,Fatal collisions,10
+2017,K02000001,great-britain,Fatal collisions,220
+2016,E12000001,north-east,Fatal collisions,10
+2016,E12000002,north-west,Fatal collisions,20
+2016,E12000003,yorkshire-and-humberside,Fatal collisions,20
+2016,E12000004,east-midlands,Fatal collisions,20
+2016,E12000005,west-midlands,Fatal collisions,20
+2016,E12000006,eastern,Fatal collisions,20
+2016,E12000007,south-east,Fatal collisions,40
+2016,E12000008,london,Fatal collisions,10
+2016,E12000009,south-west,Fatal collisions,20
+2016,E92000001,england,Fatal collisions,170
+2016,W92000004,wales,Fatal collisions,20
+2016,S92000003,scotland,Fatal collisions,30
+2016,K02000001,great-britain,Fatal collisions,220
+2015,E12000001,north-east,Fatal collisions,10
+2015,E12000002,north-west,Fatal collisions,20
+2015,E12000003,yorkshire-and-humberside,Fatal collisions,20
+2015,E12000004,east-midlands,Fatal collisions,20
+2015,E12000005,west-midlands,Fatal collisions,20
+2015,E12000006,eastern,Fatal collisions,30
+2015,E12000007,south-east,Fatal collisions,20
+2015,E12000008,london,Fatal collisions,0
+2015,E12000009,south-west,Fatal collisions,20
+2015,E92000001,england,Fatal collisions,150
+2015,W92000004,wales,Fatal collisions,10
+2015,S92000003,scotland,Fatal collisions,20
+2015,K02000001,great-britain,Fatal collisions,170
+2014,E12000001,north-east,Fatal collisions,10
+2014,E12000002,north-west,Fatal collisions,10
+2014,E12000003,yorkshire-and-humberside,Fatal collisions,20
+2014,E12000004,east-midlands,Fatal collisions,20
+2014,E12000005,west-midlands,Fatal collisions,20
+2014,E12000006,eastern,Fatal collisions,30
+2014,E12000007,south-east,Fatal collisions,30
+2014,E12000008,london,Fatal collisions,0
+2014,E12000009,south-west,Fatal collisions,30
+2014,E92000001,england,Fatal collisions,190
+2014,W92000004,wales,Fatal collisions,10
+2014,S92000003,scotland,Fatal collisions,20
+2014,K02000001,great-britain,Fatal collisions,220
+2013,E12000001,north-east,Fatal collisions,20
+2013,E12000002,north-west,Fatal collisions,30
+2013,E12000003,yorkshire-and-humberside,Fatal collisions,30
+2013,E12000004,east-midlands,Fatal collisions,20
+2013,E12000005,west-midlands,Fatal collisions,20
+2013,E12000006,eastern,Fatal collisions,30
+2013,E12000007,south-east,Fatal collisions,30
+2013,E12000008,london,Fatal collisions,10
+2013,E12000009,south-west,Fatal collisions,20
+2013,E92000001,england,Fatal collisions,200
+2013,W92000004,wales,Fatal collisions,10
+2013,S92000003,scotland,Fatal collisions,10
+2013,K02000001,great-britain,Fatal collisions,230
+2012,E12000001,north-east,Fatal collisions,10
+2012,E12000002,north-west,Fatal collisions,20
+2012,E12000003,yorkshire-and-humberside,Fatal collisions,20
+2012,E12000004,east-midlands,Fatal collisions,20
+2012,E12000005,west-midlands,Fatal collisions,30
+2012,E12000006,eastern,Fatal collisions,20
+2012,E12000007,south-east,Fatal collisions,30
+2012,E12000008,london,Fatal collisions,10
+2012,E12000009,south-west,Fatal collisions,30
+2012,E92000001,england,Fatal collisions,190
+2012,W92000004,wales,Fatal collisions,10
+2012,S92000003,scotland,Fatal collisions,10
+2012,K02000001,great-britain,Fatal collisions,210
+2011,E12000001,north-east,Fatal collisions,0
+2011,E12000002,north-west,Fatal collisions,30
+2011,E12000003,yorkshire-and-humberside,Fatal collisions,20
+2011,E12000004,east-midlands,Fatal collisions,20
+2011,E12000005,west-midlands,Fatal collisions,20
+2011,E12000006,eastern,Fatal collisions,20
+2011,E12000007,south-east,Fatal collisions,40
+2011,E12000008,london,Fatal collisions,10
+2011,E12000009,south-west,Fatal collisions,20
+2011,E92000001,england,Fatal collisions,190
+2011,W92000004,wales,Fatal collisions,10
+2011,S92000003,scotland,Fatal collisions,10
+2011,K02000001,great-britain,Fatal collisions,220
+2010,E12000001,north-east,Fatal collisions,10
+2010,E12000002,north-west,Fatal collisions,30
+2010,E12000003,yorkshire-and-humberside,Fatal collisions,20
+2010,E12000004,east-midlands,Fatal collisions,20
+2010,E12000005,west-midlands,Fatal collisions,10
+2010,E12000006,eastern,Fatal collisions,20
+2010,E12000007,south-east,Fatal collisions,50
+2010,E12000008,london,Fatal collisions,10
+2010,E12000009,south-west,Fatal collisions,30
+2010,E92000001,england,Fatal collisions,190
+2010,W92000004,wales,Fatal collisions,10
+2010,S92000003,scotland,Fatal collisions,10
+2010,K02000001,great-britain,Fatal collisions,220
+2021,E12000001,north-east,Serious collisions (unadjusted) ,40
+2021,E12000002,north-west,Serious collisions (unadjusted) ,110
+2021,E12000003,yorkshire-and-humberside,Serious collisions (unadjusted) ,140
+2021,E12000004,east-midlands,Serious collisions (unadjusted) ,100
+2021,E12000005,west-midlands,Serious collisions (unadjusted) ,90
+2021,E12000006,eastern,Serious collisions (unadjusted) ,140
+2021,E12000007,south-east,Serious collisions (unadjusted) ,200
+2021,E12000008,london,Serious collisions (unadjusted) ,110
+2021,E12000009,south-west,Serious collisions (unadjusted) ,110
+2021,E92000001,england,Serious collisions (unadjusted) ,1040
+2021,W92000004,wales,Serious collisions (unadjusted) ,60
+2021,S92000003,scotland,Serious collisions (unadjusted) ,60
+2021,K02000001,great-britain,Serious collisions (unadjusted) ,1160
+2020,E12000001,north-east,Serious collisions (unadjusted) ,40
+2020,E12000002,north-west,Serious collisions (unadjusted) ,100
+2020,E12000003,yorkshire-and-humberside,Serious collisions (unadjusted) ,110
+2020,E12000004,east-midlands,Serious collisions (unadjusted) ,90
+2020,E12000005,west-midlands,Serious collisions (unadjusted) ,80
+2020,E12000006,eastern,Serious collisions (unadjusted) ,110
+2020,E12000007,south-east,Serious collisions (unadjusted) ,170
+2020,E12000008,london,Serious collisions (unadjusted) ,90
+2020,E12000009,south-west,Serious collisions (unadjusted) ,80
+2020,E92000001,england,Serious collisions (unadjusted) ,860
+2020,W92000004,wales,Serious collisions (unadjusted) ,50
+2020,S92000003,scotland,Serious collisions (unadjusted) ,50
+2020,K02000001,great-britain,Serious collisions (unadjusted) ,960
+2019,E12000001,north-east,Serious collisions (unadjusted) ,50
+2019,E12000002,north-west,Serious collisions (unadjusted) ,140
+2019,E12000003,yorkshire-and-humberside,Serious collisions (unadjusted) ,120
+2019,E12000004,east-midlands,Serious collisions (unadjusted) ,120
+2019,E12000005,west-midlands,Serious collisions (unadjusted) ,110
+2019,E12000006,eastern,Serious collisions (unadjusted) ,130
+2019,E12000007,south-east,Serious collisions (unadjusted) ,220
+2019,E12000008,london,Serious collisions (unadjusted) ,120
+2019,E12000009,south-west,Serious collisions (unadjusted) ,110
+2019,E92000001,england,Serious collisions (unadjusted) ,1100
+2019,W92000004,wales,Serious collisions (unadjusted) ,70
+2019,S92000003,scotland,Serious collisions (unadjusted) ,70
+2019,K02000001,great-britain,Serious collisions (unadjusted) ,1240
+2018,E12000001,north-east,Serious collisions (unadjusted) ,60
+2018,E12000002,north-west,Serious collisions (unadjusted) ,110
+2018,E12000003,yorkshire-and-humberside,Serious collisions (unadjusted) ,120
+2018,E12000004,east-midlands,Serious collisions (unadjusted) ,110
+2018,E12000005,west-midlands,Serious collisions (unadjusted) ,60
+2018,E12000006,eastern,Serious collisions (unadjusted) ,110
+2018,E12000007,south-east,Serious collisions (unadjusted) ,200
+2018,E12000008,london,Serious collisions (unadjusted) ,120
+2018,E12000009,south-west,Serious collisions (unadjusted) ,90
+2018,E92000001,england,Serious collisions (unadjusted) ,970
+2018,W92000004,wales,Serious collisions (unadjusted) ,60
+2018,S92000003,scotland,Serious collisions (unadjusted) ,60
+2018,K02000001,great-britain,Serious collisions (unadjusted) ,1090
+2017,E12000001,north-east,Serious collisions (unadjusted) ,40
+2017,E12000002,north-west,Serious collisions (unadjusted) ,110
+2017,E12000003,yorkshire-and-humberside,Serious collisions (unadjusted) ,120
+2017,E12000004,east-midlands,Serious collisions (unadjusted) ,90
+2017,E12000005,west-midlands,Serious collisions (unadjusted) ,90
+2017,E12000006,eastern,Serious collisions (unadjusted) ,140
+2017,E12000007,south-east,Serious collisions (unadjusted) ,160
+2017,E12000008,london,Serious collisions (unadjusted) ,110
+2017,E12000009,south-west,Serious collisions (unadjusted) ,100
+2017,E92000001,england,Serious collisions (unadjusted) ,970
+2017,W92000004,wales,Serious collisions (unadjusted) ,60
+2017,S92000003,scotland,Serious collisions (unadjusted) ,60
+2017,K02000001,great-britain,Serious collisions (unadjusted) ,1080
+2016,E12000001,north-east,Serious collisions (unadjusted) ,50
+2016,E12000002,north-west,Serious collisions (unadjusted) ,110
+2016,E12000003,yorkshire-and-humberside,Serious collisions (unadjusted) ,100
+2016,E12000004,east-midlands,Serious collisions (unadjusted) ,80
+2016,E12000005,west-midlands,Serious collisions (unadjusted) ,90
+2016,E12000006,eastern,Serious collisions (unadjusted) ,130
+2016,E12000007,south-east,Serious collisions (unadjusted) ,180
+2016,E12000008,london,Serious collisions (unadjusted) ,40
+2016,E12000009,south-west,Serious collisions (unadjusted) ,90
+2016,E92000001,england,Serious collisions (unadjusted) ,870
+2016,W92000004,wales,Serious collisions (unadjusted) ,50
+2016,S92000003,scotland,Serious collisions (unadjusted) ,60
+2016,K02000001,great-britain,Serious collisions (unadjusted) ,980
+2015,E12000001,north-east,Serious collisions (unadjusted) ,40
+2015,E12000002,north-west,Serious collisions (unadjusted) ,110
+2015,E12000003,yorkshire-and-humberside,Serious collisions (unadjusted) ,90
+2015,E12000004,east-midlands,Serious collisions (unadjusted) ,90
+2015,E12000005,west-midlands,Serious collisions (unadjusted) ,80
+2015,E12000006,eastern,Serious collisions (unadjusted) ,90
+2015,E12000007,south-east,Serious collisions (unadjusted) ,180
+2015,E12000008,london,Serious collisions (unadjusted) ,50
+2015,E12000009,south-west,Serious collisions (unadjusted) ,100
+2015,E92000001,england,Serious collisions (unadjusted) ,820
+2015,W92000004,wales,Serious collisions (unadjusted) ,70
+2015,S92000003,scotland,Serious collisions (unadjusted) ,70
+2015,K02000001,great-britain,Serious collisions (unadjusted) ,970
+2014,E12000001,north-east,Serious collisions (unadjusted) ,30
+2014,E12000002,north-west,Serious collisions (unadjusted) ,120
+2014,E12000003,yorkshire-and-humberside,Serious collisions (unadjusted) ,100
+2014,E12000004,east-midlands,Serious collisions (unadjusted) ,90
+2014,E12000005,west-midlands,Serious collisions (unadjusted) ,70
+2014,E12000006,eastern,Serious collisions (unadjusted) ,90
+2014,E12000007,south-east,Serious collisions (unadjusted) ,160
+2014,E12000008,london,Serious collisions (unadjusted) ,30
+2014,E12000009,south-west,Serious collisions (unadjusted) ,80
+2014,E92000001,england,Serious collisions (unadjusted) ,770
+2014,W92000004,wales,Serious collisions (unadjusted) ,50
+2014,S92000003,scotland,Serious collisions (unadjusted) ,50
+2014,K02000001,great-britain,Serious collisions (unadjusted) ,870
+2013,E12000001,north-east,Serious collisions (unadjusted) ,30
+2013,E12000002,north-west,Serious collisions (unadjusted) ,110
+2013,E12000003,yorkshire-and-humberside,Serious collisions (unadjusted) ,120
+2013,E12000004,east-midlands,Serious collisions (unadjusted) ,80
+2013,E12000005,west-midlands,Serious collisions (unadjusted) ,60
+2013,E12000006,eastern,Serious collisions (unadjusted) ,100
+2013,E12000007,south-east,Serious collisions (unadjusted) ,140
+2013,E12000008,london,Serious collisions (unadjusted) ,40
+2013,E12000009,south-west,Serious collisions (unadjusted) ,80
+2013,E92000001,england,Serious collisions (unadjusted) ,760
+2013,W92000004,wales,Serious collisions (unadjusted) ,60
+2013,S92000003,scotland,Serious collisions (unadjusted) ,50
+2013,K02000001,great-britain,Serious collisions (unadjusted) ,870
+2012,E12000001,north-east,Serious collisions (unadjusted) ,30
+2012,E12000002,north-west,Serious collisions (unadjusted) ,120
+2012,E12000003,yorkshire-and-humberside,Serious collisions (unadjusted) ,100
+2012,E12000004,east-midlands,Serious collisions (unadjusted) ,100
+2012,E12000005,west-midlands,Serious collisions (unadjusted) ,90
+2012,E12000006,eastern,Serious collisions (unadjusted) ,100
+2012,E12000007,south-east,Serious collisions (unadjusted) ,140
+2012,E12000008,london,Serious collisions (unadjusted) ,50
+2012,E12000009,south-west,Serious collisions (unadjusted) ,80
+2012,E92000001,england,Serious collisions (unadjusted) ,820
+2012,W92000004,wales,Serious collisions (unadjusted) ,50
+2012,S92000003,scotland,Serious collisions (unadjusted) ,90
+2012,K02000001,great-britain,Serious collisions (unadjusted) ,960
+2011,E12000001,north-east,Serious collisions (unadjusted) ,40
+2011,E12000002,north-west,Serious collisions (unadjusted) ,130
+2011,E12000003,yorkshire-and-humberside,Serious collisions (unadjusted) ,110
+2011,E12000004,east-midlands,Serious collisions (unadjusted) ,100
+2011,E12000005,west-midlands,Serious collisions (unadjusted) ,90
+2011,E12000006,eastern,Serious collisions (unadjusted) ,120
+2011,E12000007,south-east,Serious collisions (unadjusted) ,170
+2011,E12000008,london,Serious collisions (unadjusted) ,50
+2011,E12000009,south-west,Serious collisions (unadjusted) ,80
+2011,E92000001,england,Serious collisions (unadjusted) ,910
+2011,W92000004,wales,Serious collisions (unadjusted) ,60
+2011,S92000003,scotland,Serious collisions (unadjusted) ,70
+2011,K02000001,great-britain,Serious collisions (unadjusted) ,1040
+2010,E12000001,north-east,Serious collisions (unadjusted) ,50
+2010,E12000002,north-west,Serious collisions (unadjusted) ,120
+2010,E12000003,yorkshire-and-humberside,Serious collisions (unadjusted) ,90
+2010,E12000004,east-midlands,Serious collisions (unadjusted) ,100
+2010,E12000005,west-midlands,Serious collisions (unadjusted) ,90
+2010,E12000006,eastern,Serious collisions (unadjusted) ,130
+2010,E12000007,south-east,Serious collisions (unadjusted) ,150
+2010,E12000008,london,Serious collisions (unadjusted) ,40
+2010,E12000009,south-west,Serious collisions (unadjusted) ,80
+2010,E92000001,england,Serious collisions (unadjusted) ,850
+2010,W92000004,wales,Serious collisions (unadjusted) ,50
+2010,S92000003,scotland,Serious collisions (unadjusted) ,80
+2010,K02000001,great-britain,Serious collisions (unadjusted) ,990
+2021,E12000001,north-east,Serious collisions (adjusted),40
+2021,E12000002,north-west,Serious collisions (adjusted),130
+2021,E12000003,yorkshire-and-humberside,Serious collisions (adjusted),150
+2021,E12000004,east-midlands,Serious collisions (adjusted),140
+2021,E12000005,west-midlands,Serious collisions (adjusted),90
+2021,E12000006,eastern,Serious collisions (adjusted),140
+2021,E12000007,south-east,Serious collisions (adjusted),230
+2021,E12000008,london,Serious collisions (adjusted),110
+2021,E12000009,south-west,Serious collisions (adjusted),130
+2021,E92000001,england,Serious collisions (adjusted),1160
+2021,W92000004,wales,Serious collisions (adjusted),80
+2021,S92000003,scotland,Serious collisions (adjusted),60
+2021,K02000001,great-britain,Serious collisions (adjusted),1290
+2020,E12000001,north-east,Serious collisions (adjusted),40
+2020,E12000002,north-west,Serious collisions (adjusted),120
+2020,E12000003,yorkshire-and-humberside,Serious collisions (adjusted),120
+2020,E12000004,east-midlands,Serious collisions (adjusted),130
+2020,E12000005,west-midlands,Serious collisions (adjusted),80
+2020,E12000006,eastern,Serious collisions (adjusted),110
+2020,E12000007,south-east,Serious collisions (adjusted),200
+2020,E12000008,london,Serious collisions (adjusted),90
+2020,E12000009,south-west,Serious collisions (adjusted),90
+2020,E92000001,england,Serious collisions (adjusted),970
+2020,W92000004,wales,Serious collisions (adjusted),70
+2020,S92000003,scotland,Serious collisions (adjusted),60
+2020,K02000001,great-britain,Serious collisions (adjusted),1100
+2019,E12000001,north-east,Serious collisions (adjusted),50
+2019,E12000002,north-west,Serious collisions (adjusted),170
+2019,E12000003,yorkshire-and-humberside,Serious collisions (adjusted),140
+2019,E12000004,east-midlands,Serious collisions (adjusted),160
+2019,E12000005,west-midlands,Serious collisions (adjusted),110
+2019,E12000006,eastern,Serious collisions (adjusted),130
+2019,E12000007,south-east,Serious collisions (adjusted),250
+2019,E12000008,london,Serious collisions (adjusted),120
+2019,E12000009,south-west,Serious collisions (adjusted),130
+2019,E92000001,england,Serious collisions (adjusted),1250
+2019,W92000004,wales,Serious collisions (adjusted),90
+2019,S92000003,scotland,Serious collisions (adjusted),90
+2019,K02000001,great-britain,Serious collisions (adjusted),1430
+2018,E12000001,north-east,Serious collisions (adjusted),60
+2018,E12000002,north-west,Serious collisions (adjusted),160
+2018,E12000003,yorkshire-and-humberside,Serious collisions (adjusted),140
+2018,E12000004,east-midlands,Serious collisions (adjusted),150
+2018,E12000005,west-midlands,Serious collisions (adjusted),60
+2018,E12000006,eastern,Serious collisions (adjusted),110
+2018,E12000007,south-east,Serious collisions (adjusted),240
+2018,E12000008,london,Serious collisions (adjusted),120
+2018,E12000009,south-west,Serious collisions (adjusted),110
+2018,E92000001,england,Serious collisions (adjusted),1140
+2018,W92000004,wales,Serious collisions (adjusted),70
+2018,S92000003,scotland,Serious collisions (adjusted),100
+2018,K02000001,great-britain,Serious collisions (adjusted),1310
+2017,E12000001,north-east,Serious collisions (adjusted),40
+2017,E12000002,north-west,Serious collisions (adjusted),150
+2017,E12000003,yorkshire-and-humberside,Serious collisions (adjusted),140
+2017,E12000004,east-midlands,Serious collisions (adjusted),120
+2017,E12000005,west-midlands,Serious collisions (adjusted),90
+2017,E12000006,eastern,Serious collisions (adjusted),140
+2017,E12000007,south-east,Serious collisions (adjusted),200
+2017,E12000008,london,Serious collisions (adjusted),110
+2017,E12000009,south-west,Serious collisions (adjusted),120
+2017,E92000001,england,Serious collisions (adjusted),1120
+2017,W92000004,wales,Serious collisions (adjusted),70
+2017,S92000003,scotland,Serious collisions (adjusted),100
+2017,K02000001,great-britain,Serious collisions (adjusted),1290
+2016,E12000001,north-east,Serious collisions (adjusted),50
+2016,E12000002,north-west,Serious collisions (adjusted),150
+2016,E12000003,yorkshire-and-humberside,Serious collisions (adjusted),120
+2016,E12000004,east-midlands,Serious collisions (adjusted),120
+2016,E12000005,west-midlands,Serious collisions (adjusted),90
+2016,E12000006,eastern,Serious collisions (adjusted),130
+2016,E12000007,south-east,Serious collisions (adjusted),220
+2016,E12000008,london,Serious collisions (adjusted),60
+2016,E12000009,south-west,Serious collisions (adjusted),120
+2016,E92000001,england,Serious collisions (adjusted),1060
+2016,W92000004,wales,Serious collisions (adjusted),70
+2016,S92000003,scotland,Serious collisions (adjusted),120
+2016,K02000001,great-britain,Serious collisions (adjusted),1260
+2015,E12000001,north-east,Serious collisions (adjusted),50
+2015,E12000002,north-west,Serious collisions (adjusted),160
+2015,E12000003,yorkshire-and-humberside,Serious collisions (adjusted),130
+2015,E12000004,east-midlands,Serious collisions (adjusted),130
+2015,E12000005,west-midlands,Serious collisions (adjusted),100
+2015,E12000006,eastern,Serious collisions (adjusted),120
+2015,E12000007,south-east,Serious collisions (adjusted),230
+2015,E12000008,london,Serious collisions (adjusted),70
+2015,E12000009,south-west,Serious collisions (adjusted),120
+2015,E92000001,england,Serious collisions (adjusted),1110
+2015,W92000004,wales,Serious collisions (adjusted),90
+2015,S92000003,scotland,Serious collisions (adjusted),120
+2015,K02000001,great-britain,Serious collisions (adjusted),1320
+2014,E12000001,north-east,Serious collisions (adjusted),40
+2014,E12000002,north-west,Serious collisions (adjusted),170
+2014,E12000003,yorkshire-and-humberside,Serious collisions (adjusted),130
+2014,E12000004,east-midlands,Serious collisions (adjusted),130
+2014,E12000005,west-midlands,Serious collisions (adjusted),110
+2014,E12000006,eastern,Serious collisions (adjusted),120
+2014,E12000007,south-east,Serious collisions (adjusted),210
+2014,E12000008,london,Serious collisions (adjusted),50
+2014,E12000009,south-west,Serious collisions (adjusted),100
+2014,E92000001,england,Serious collisions (adjusted),1070
+2014,W92000004,wales,Serious collisions (adjusted),80
+2014,S92000003,scotland,Serious collisions (adjusted),100
+2014,K02000001,great-britain,Serious collisions (adjusted),1250
+2013,E12000001,north-east,Serious collisions (adjusted),40
+2013,E12000002,north-west,Serious collisions (adjusted),170
+2013,E12000003,yorkshire-and-humberside,Serious collisions (adjusted),160
+2013,E12000004,east-midlands,Serious collisions (adjusted),120
+2013,E12000005,west-midlands,Serious collisions (adjusted),90
+2013,E12000006,eastern,Serious collisions (adjusted),140
+2013,E12000007,south-east,Serious collisions (adjusted),190
+2013,E12000008,london,Serious collisions (adjusted),60
+2013,E12000009,south-west,Serious collisions (adjusted),100
+2013,E92000001,england,Serious collisions (adjusted),1070
+2013,W92000004,wales,Serious collisions (adjusted),80
+2013,S92000003,scotland,Serious collisions (adjusted),100
+2013,K02000001,great-britain,Serious collisions (adjusted),1250
+2012,E12000001,north-east,Serious collisions (adjusted),50
+2012,E12000002,north-west,Serious collisions (adjusted),180
+2012,E12000003,yorkshire-and-humberside,Serious collisions (adjusted),150
+2012,E12000004,east-midlands,Serious collisions (adjusted),150
+2012,E12000005,west-midlands,Serious collisions (adjusted),120
+2012,E12000006,eastern,Serious collisions (adjusted),140
+2012,E12000007,south-east,Serious collisions (adjusted),200
+2012,E12000008,london,Serious collisions (adjusted),70
+2012,E12000009,south-west,Serious collisions (adjusted),110
+2012,E92000001,england,Serious collisions (adjusted),1170
+2012,W92000004,wales,Serious collisions (adjusted),80
+2012,S92000003,scotland,Serious collisions (adjusted),150
+2012,K02000001,great-britain,Serious collisions (adjusted),1390
+2011,E12000001,north-east,Serious collisions (adjusted),50
+2011,E12000002,north-west,Serious collisions (adjusted),190
+2011,E12000003,yorkshire-and-humberside,Serious collisions (adjusted),170
+2011,E12000004,east-midlands,Serious collisions (adjusted),150
+2011,E12000005,west-midlands,Serious collisions (adjusted),140
+2011,E12000006,eastern,Serious collisions (adjusted),160
+2011,E12000007,south-east,Serious collisions (adjusted),230
+2011,E12000008,london,Serious collisions (adjusted),80
+2011,E12000009,south-west,Serious collisions (adjusted),110
+2011,E92000001,england,Serious collisions (adjusted),1280
+2011,W92000004,wales,Serious collisions (adjusted),90
+2011,S92000003,scotland,Serious collisions (adjusted),150
+2011,K02000001,great-britain,Serious collisions (adjusted),1510
+2010,E12000001,north-east,Serious collisions (adjusted),70
+2010,E12000002,north-west,Serious collisions (adjusted),180
+2010,E12000003,yorkshire-and-humberside,Serious collisions (adjusted),120
+2010,E12000004,east-midlands,Serious collisions (adjusted),140
+2010,E12000005,west-midlands,Serious collisions (adjusted),130
+2010,E12000006,eastern,Serious collisions (adjusted),170
+2010,E12000007,south-east,Serious collisions (adjusted),210
+2010,E12000008,london,Serious collisions (adjusted),70
+2010,E12000009,south-west,Serious collisions (adjusted),100
+2010,E92000001,england,Serious collisions (adjusted),1180
+2010,W92000004,wales,Serious collisions (adjusted),80
+2010,S92000003,scotland,Serious collisions (adjusted),160
+2010,K02000001,great-britain,Serious collisions (adjusted),1420
+2021,E12000001,north-east,Slight collisions (unadjusted),80
+2021,E12000002,north-west,Slight collisions (unadjusted),320
+2021,E12000003,yorkshire-and-humberside,Slight collisions (unadjusted),280
+2021,E12000004,east-midlands,Slight collisions (unadjusted),340
+2021,E12000005,west-midlands,Slight collisions (unadjusted),260
+2021,E12000006,eastern,Slight collisions (unadjusted),370
+2021,E12000007,south-east,Slight collisions (unadjusted),630
+2021,E12000008,london,Slight collisions (unadjusted),400
+2021,E12000009,south-west,Slight collisions (unadjusted),360
+2021,E92000001,england,Slight collisions (unadjusted),3030
+2021,W92000004,wales,Slight collisions (unadjusted),150
+2021,S92000003,scotland,Slight collisions (unadjusted),90
+2021,K02000001,great-britain,Slight collisions (unadjusted),3260
+2020,E12000001,north-east,Slight collisions (unadjusted),90
+2020,E12000002,north-west,Slight collisions (unadjusted),300
+2020,E12000003,yorkshire-and-humberside,Slight collisions (unadjusted),260
+2020,E12000004,east-midlands,Slight collisions (unadjusted),400
+2020,E12000005,west-midlands,Slight collisions (unadjusted),290
+2020,E12000006,eastern,Slight collisions (unadjusted),400
+2020,E12000007,south-east,Slight collisions (unadjusted),680
+2020,E12000008,london,Slight collisions (unadjusted),430
+2020,E12000009,south-west,Slight collisions (unadjusted),320
+2020,E92000001,england,Slight collisions (unadjusted),3170
+2020,W92000004,wales,Slight collisions (unadjusted),150
+2020,S92000003,scotland,Slight collisions (unadjusted),120
+2020,K02000001,great-britain,Slight collisions (unadjusted),3440
+2019,E12000001,north-east,Slight collisions (unadjusted),110
+2019,E12000002,north-west,Slight collisions (unadjusted),360
+2019,E12000003,yorkshire-and-humberside,Slight collisions (unadjusted),280
+2019,E12000004,east-midlands,Slight collisions (unadjusted),410
+2019,E12000005,west-midlands,Slight collisions (unadjusted),280
+2019,E12000006,eastern,Slight collisions (unadjusted),450
+2019,E12000007,south-east,Slight collisions (unadjusted),710
+2019,E12000008,london,Slight collisions (unadjusted),530
+2019,E12000009,south-west,Slight collisions (unadjusted),430
+2019,E92000001,england,Slight collisions (unadjusted),3550
+2019,W92000004,wales,Slight collisions (unadjusted),200
+2019,S92000003,scotland,Slight collisions (unadjusted),150
+2019,K02000001,great-britain,Slight collisions (unadjusted),3900
+2018,E12000001,north-east,Slight collisions (unadjusted),160
+2018,E12000002,north-west,Slight collisions (unadjusted),490
+2018,E12000003,yorkshire-and-humberside,Slight collisions (unadjusted),350
+2018,E12000004,east-midlands,Slight collisions (unadjusted),440
+2018,E12000005,west-midlands,Slight collisions (unadjusted),400
+2018,E12000006,eastern,Slight collisions (unadjusted),500
+2018,E12000007,south-east,Slight collisions (unadjusted),850
+2018,E12000008,london,Slight collisions (unadjusted),630
+2018,E12000009,south-west,Slight collisions (unadjusted),420
+2018,E92000001,england,Slight collisions (unadjusted),4230
+2018,W92000004,wales,Slight collisions (unadjusted),170
+2018,S92000003,scotland,Slight collisions (unadjusted),210
+2018,K02000001,great-britain,Slight collisions (unadjusted),4610
+2017,E12000001,north-east,Slight collisions (unadjusted),130
+2017,E12000002,north-west,Slight collisions (unadjusted),440
+2017,E12000003,yorkshire-and-humberside,Slight collisions (unadjusted),310
+2017,E12000004,east-midlands,Slight collisions (unadjusted),390
+2017,E12000005,west-midlands,Slight collisions (unadjusted),380
+2017,E12000006,eastern,Slight collisions (unadjusted),510
+2017,E12000007,south-east,Slight collisions (unadjusted),830
+2017,E12000008,london,Slight collisions (unadjusted),640
+2017,E12000009,south-west,Slight collisions (unadjusted),410
+2017,E92000001,england,Slight collisions (unadjusted),4040
+2017,W92000004,wales,Slight collisions (unadjusted),150
+2017,S92000003,scotland,Slight collisions (unadjusted),200
+2017,K02000001,great-britain,Slight collisions (unadjusted),4400
+2016,E12000001,north-east,Slight collisions (unadjusted),150
+2016,E12000002,north-west,Slight collisions (unadjusted),440
+2016,E12000003,yorkshire-and-humberside,Slight collisions (unadjusted),390
+2016,E12000004,east-midlands,Slight collisions (unadjusted),450
+2016,E12000005,west-midlands,Slight collisions (unadjusted),500
+2016,E12000006,eastern,Slight collisions (unadjusted),540
+2016,E12000007,south-east,Slight collisions (unadjusted),900
+2016,E12000008,london,Slight collisions (unadjusted),450
+2016,E12000009,south-west,Slight collisions (unadjusted),510
+2016,E92000001,england,Slight collisions (unadjusted),4340
+2016,W92000004,wales,Slight collisions (unadjusted),210
+2016,S92000003,scotland,Slight collisions (unadjusted),320
+2016,K02000001,great-britain,Slight collisions (unadjusted),4870
+2015,E12000001,north-east,Slight collisions (unadjusted),180
+2015,E12000002,north-west,Slight collisions (unadjusted),430
+2015,E12000003,yorkshire-and-humberside,Slight collisions (unadjusted),410
+2015,E12000004,east-midlands,Slight collisions (unadjusted),420
+2015,E12000005,west-midlands,Slight collisions (unadjusted),540
+2015,E12000006,eastern,Slight collisions (unadjusted),490
+2015,E12000007,south-east,Slight collisions (unadjusted),820
+2015,E12000008,london,Slight collisions (unadjusted),360
+2015,E12000009,south-west,Slight collisions (unadjusted),450
+2015,E92000001,england,Slight collisions (unadjusted),4110
+2015,W92000004,wales,Slight collisions (unadjusted),230
+2015,S92000003,scotland,Slight collisions (unadjusted),250
+2015,K02000001,great-britain,Slight collisions (unadjusted),4590
+2014,E12000001,north-east,Slight collisions (unadjusted),190
+2014,E12000002,north-west,Slight collisions (unadjusted),500
+2014,E12000003,yorkshire-and-humberside,Slight collisions (unadjusted),390
+2014,E12000004,east-midlands,Slight collisions (unadjusted),430
+2014,E12000005,west-midlands,Slight collisions (unadjusted),500
+2014,E12000006,eastern,Slight collisions (unadjusted),500
+2014,E12000007,south-east,Slight collisions (unadjusted),760
+2014,E12000008,london,Slight collisions (unadjusted),310
+2014,E12000009,south-west,Slight collisions (unadjusted),430
+2014,E92000001,england,Slight collisions (unadjusted),4000
+2014,W92000004,wales,Slight collisions (unadjusted),250
+2014,S92000003,scotland,Slight collisions (unadjusted),270
+2014,K02000001,great-britain,Slight collisions (unadjusted),4530
+2013,E12000001,north-east,Slight collisions (unadjusted),160
+2013,E12000002,north-west,Slight collisions (unadjusted),520
+2013,E12000003,yorkshire-and-humberside,Slight collisions (unadjusted),390
+2013,E12000004,east-midlands,Slight collisions (unadjusted),470
+2013,E12000005,west-midlands,Slight collisions (unadjusted),480
+2013,E12000006,eastern,Slight collisions (unadjusted),490
+2013,E12000007,south-east,Slight collisions (unadjusted),780
+2013,E12000008,london,Slight collisions (unadjusted),300
+2013,E12000009,south-west,Slight collisions (unadjusted),450
+2013,E92000001,england,Slight collisions (unadjusted),4050
+2013,W92000004,wales,Slight collisions (unadjusted),280
+2013,S92000003,scotland,Slight collisions (unadjusted),260
+2013,K02000001,great-britain,Slight collisions (unadjusted),4590
+2012,E12000001,north-east,Slight collisions (unadjusted),210
+2012,E12000002,north-west,Slight collisions (unadjusted),610
+2012,E12000003,yorkshire-and-humberside,Slight collisions (unadjusted),500
+2012,E12000004,east-midlands,Slight collisions (unadjusted),510
+2012,E12000005,west-midlands,Slight collisions (unadjusted),590
+2012,E12000006,eastern,Slight collisions (unadjusted),610
+2012,E12000007,south-east,Slight collisions (unadjusted),920
+2012,E12000008,london,Slight collisions (unadjusted),320
+2012,E12000009,south-west,Slight collisions (unadjusted),550
+2012,E92000001,england,Slight collisions (unadjusted),4810
+2012,W92000004,wales,Slight collisions (unadjusted),300
+2012,S92000003,scotland,Slight collisions (unadjusted),340
+2012,K02000001,great-britain,Slight collisions (unadjusted),5460
+2011,E12000001,north-east,Slight collisions (unadjusted),210
+2011,E12000002,north-west,Slight collisions (unadjusted),550
+2011,E12000003,yorkshire-and-humberside,Slight collisions (unadjusted),520
+2011,E12000004,east-midlands,Slight collisions (unadjusted),560
+2011,E12000005,west-midlands,Slight collisions (unadjusted),670
+2011,E12000006,eastern,Slight collisions (unadjusted),550
+2011,E12000007,south-east,Slight collisions (unadjusted),900
+2011,E12000008,london,Slight collisions (unadjusted),300
+2011,E12000009,south-west,Slight collisions (unadjusted),500
+2011,E92000001,england,Slight collisions (unadjusted),4760
+2011,W92000004,wales,Slight collisions (unadjusted),270
+2011,S92000003,scotland,Slight collisions (unadjusted),400
+2011,K02000001,great-britain,Slight collisions (unadjusted),5430
+2010,E12000001,north-east,Slight collisions (unadjusted),240
+2010,E12000002,north-west,Slight collisions (unadjusted),580
+2010,E12000003,yorkshire-and-humberside,Slight collisions (unadjusted),380
+2010,E12000004,east-midlands,Slight collisions (unadjusted),520
+2010,E12000005,west-midlands,Slight collisions (unadjusted),660
+2010,E12000006,eastern,Slight collisions (unadjusted),570
+2010,E12000007,south-east,Slight collisions (unadjusted),890
+2010,E12000008,london,Slight collisions (unadjusted),320
+2010,E12000009,south-west,Slight collisions (unadjusted),500
+2010,E92000001,england,Slight collisions (unadjusted),4660
+2010,W92000004,wales,Slight collisions (unadjusted),320
+2010,S92000003,scotland,Slight collisions (unadjusted),440
+2010,K02000001,great-britain,Slight collisions (unadjusted),5420
+2021,E12000001,north-east,Slight collisions (adjusted),80
+2021,E12000002,north-west,Slight collisions (adjusted),310
+2021,E12000003,yorkshire-and-humberside,Slight collisions (adjusted),270
+2021,E12000004,east-midlands,Slight collisions (adjusted),300
+2021,E12000005,west-midlands,Slight collisions (adjusted),260
+2021,E12000006,eastern,Slight collisions (adjusted),360
+2021,E12000007,south-east,Slight collisions (adjusted),600
+2021,E12000008,london,Slight collisions (adjusted),400
+2021,E12000009,south-west,Slight collisions (adjusted),340
+2021,E92000001,england,Slight collisions (adjusted),2910
+2021,W92000004,wales,Slight collisions (adjusted),130
+2021,S92000003,scotland,Slight collisions (adjusted),90
+2021,K02000001,great-britain,Slight collisions (adjusted),3130
+2020,E12000001,north-east,Slight collisions (adjusted),80
+2020,E12000002,north-west,Slight collisions (adjusted),290
+2020,E12000003,yorkshire-and-humberside,Slight collisions (adjusted),240
+2020,E12000004,east-midlands,Slight collisions (adjusted),360
+2020,E12000005,west-midlands,Slight collisions (adjusted),290
+2020,E12000006,eastern,Slight collisions (adjusted),400
+2020,E12000007,south-east,Slight collisions (adjusted),660
+2020,E12000008,london,Slight collisions (adjusted),430
+2020,E12000009,south-west,Slight collisions (adjusted),310
+2020,E92000001,england,Slight collisions (adjusted),3050
+2020,W92000004,wales,Slight collisions (adjusted),140
+2020,S92000003,scotland,Slight collisions (adjusted),120
+2020,K02000001,great-britain,Slight collisions (adjusted),3310
+2019,E12000001,north-east,Slight collisions (adjusted),110
+2019,E12000002,north-west,Slight collisions (adjusted),330
+2019,E12000003,yorkshire-and-humberside,Slight collisions (adjusted),260
+2019,E12000004,east-midlands,Slight collisions (adjusted),370
+2019,E12000005,west-midlands,Slight collisions (adjusted),280
+2019,E12000006,eastern,Slight collisions (adjusted),450
+2019,E12000007,south-east,Slight collisions (adjusted),680
+2019,E12000008,london,Slight collisions (adjusted),530
+2019,E12000009,south-west,Slight collisions (adjusted),410
+2019,E92000001,england,Slight collisions (adjusted),3410
+2019,W92000004,wales,Slight collisions (adjusted),180
+2019,S92000003,scotland,Slight collisions (adjusted),130
+2019,K02000001,great-britain,Slight collisions (adjusted),3720
+2018,E12000001,north-east,Slight collisions (adjusted),160
+2018,E12000002,north-west,Slight collisions (adjusted),450
+2018,E12000003,yorkshire-and-humberside,Slight collisions (adjusted),330
+2018,E12000004,east-midlands,Slight collisions (adjusted),400
+2018,E12000005,west-midlands,Slight collisions (adjusted),400
+2018,E12000006,eastern,Slight collisions (adjusted),500
+2018,E12000007,south-east,Slight collisions (adjusted),820
+2018,E12000008,london,Slight collisions (adjusted),630
+2018,E12000009,south-west,Slight collisions (adjusted),400
+2018,E92000001,england,Slight collisions (adjusted),4070
+2018,W92000004,wales,Slight collisions (adjusted),150
+2018,S92000003,scotland,Slight collisions (adjusted),170
+2018,K02000001,great-britain,Slight collisions (adjusted),4390
+2017,E12000001,north-east,Slight collisions (adjusted),130
+2017,E12000002,north-west,Slight collisions (adjusted),400
+2017,E12000003,yorkshire-and-humberside,Slight collisions (adjusted),300
+2017,E12000004,east-midlands,Slight collisions (adjusted),350
+2017,E12000005,west-midlands,Slight collisions (adjusted),370
+2017,E12000006,eastern,Slight collisions (adjusted),510
+2017,E12000007,south-east,Slight collisions (adjusted),790
+2017,E12000008,london,Slight collisions (adjusted),640
+2017,E12000009,south-west,Slight collisions (adjusted),380
+2017,E92000001,england,Slight collisions (adjusted),3890
+2017,W92000004,wales,Slight collisions (adjusted),140
+2017,S92000003,scotland,Slight collisions (adjusted),160
+2017,K02000001,great-britain,Slight collisions (adjusted),4190
+2016,E12000001,north-east,Slight collisions (adjusted),140
+2016,E12000002,north-west,Slight collisions (adjusted),400
+2016,E12000003,yorkshire-and-humberside,Slight collisions (adjusted),370
+2016,E12000004,east-midlands,Slight collisions (adjusted),410
+2016,E12000005,west-midlands,Slight collisions (adjusted),500
+2016,E12000006,eastern,Slight collisions (adjusted),540
+2016,E12000007,south-east,Slight collisions (adjusted),860
+2016,E12000008,london,Slight collisions (adjusted),430
+2016,E12000009,south-west,Slight collisions (adjusted),490
+2016,E92000001,england,Slight collisions (adjusted),4140
+2016,W92000004,wales,Slight collisions (adjusted),190
+2016,S92000003,scotland,Slight collisions (adjusted),260
+2016,K02000001,great-britain,Slight collisions (adjusted),4590
+2015,E12000001,north-east,Slight collisions (adjusted),160
+2015,E12000002,north-west,Slight collisions (adjusted),390
+2015,E12000003,yorkshire-and-humberside,Slight collisions (adjusted),370
+2015,E12000004,east-midlands,Slight collisions (adjusted),380
+2015,E12000005,west-midlands,Slight collisions (adjusted),520
+2015,E12000006,eastern,Slight collisions (adjusted),460
+2015,E12000007,south-east,Slight collisions (adjusted),770
+2015,E12000008,london,Slight collisions (adjusted),330
+2015,E12000009,south-west,Slight collisions (adjusted),430
+2015,E92000001,england,Slight collisions (adjusted),3820
+2015,W92000004,wales,Slight collisions (adjusted),210
+2015,S92000003,scotland,Slight collisions (adjusted),210
+2015,K02000001,great-britain,Slight collisions (adjusted),4230
+2014,E12000001,north-east,Slight collisions (adjusted),180
+2014,E12000002,north-west,Slight collisions (adjusted),450
+2014,E12000003,yorkshire-and-humberside,Slight collisions (adjusted),350
+2014,E12000004,east-midlands,Slight collisions (adjusted),390
+2014,E12000005,west-midlands,Slight collisions (adjusted),460
+2014,E12000006,eastern,Slight collisions (adjusted),460
+2014,E12000007,south-east,Slight collisions (adjusted),710
+2014,E12000008,london,Slight collisions (adjusted),290
+2014,E12000009,south-west,Slight collisions (adjusted),410
+2014,E92000001,england,Slight collisions (adjusted),3710
+2014,W92000004,wales,Slight collisions (adjusted),230
+2014,S92000003,scotland,Slight collisions (adjusted),220
+2014,K02000001,great-britain,Slight collisions (adjusted),4160
+2013,E12000001,north-east,Slight collisions (adjusted),150
+2013,E12000002,north-west,Slight collisions (adjusted),470
+2013,E12000003,yorkshire-and-humberside,Slight collisions (adjusted),350
+2013,E12000004,east-midlands,Slight collisions (adjusted),430
+2013,E12000005,west-midlands,Slight collisions (adjusted),450
+2013,E12000006,eastern,Slight collisions (adjusted),460
+2013,E12000007,south-east,Slight collisions (adjusted),740
+2013,E12000008,london,Slight collisions (adjusted),280
+2013,E12000009,south-west,Slight collisions (adjusted),420
+2013,E92000001,england,Slight collisions (adjusted),3750
+2013,W92000004,wales,Slight collisions (adjusted),260
+2013,S92000003,scotland,Slight collisions (adjusted),210
+2013,K02000001,great-britain,Slight collisions (adjusted),4220
+2012,E12000001,north-east,Slight collisions (adjusted),190
+2012,E12000002,north-west,Slight collisions (adjusted),550
+2012,E12000003,yorkshire-and-humberside,Slight collisions (adjusted),450
+2012,E12000004,east-midlands,Slight collisions (adjusted),460
+2012,E12000005,west-midlands,Slight collisions (adjusted),550
+2012,E12000006,eastern,Slight collisions (adjusted),570
+2012,E12000007,south-east,Slight collisions (adjusted),870
+2012,E12000008,london,Slight collisions (adjusted),300
+2012,E12000009,south-west,Slight collisions (adjusted),530
+2012,E92000001,england,Slight collisions (adjusted),4470
+2012,W92000004,wales,Slight collisions (adjusted),280
+2012,S92000003,scotland,Slight collisions (adjusted),290
+2012,K02000001,great-britain,Slight collisions (adjusted),5030
+2011,E12000001,north-east,Slight collisions (adjusted),200
+2011,E12000002,north-west,Slight collisions (adjusted),490
+2011,E12000003,yorkshire-and-humberside,Slight collisions (adjusted),460
+2011,E12000004,east-midlands,Slight collisions (adjusted),510
+2011,E12000005,west-midlands,Slight collisions (adjusted),630
+2011,E12000006,eastern,Slight collisions (adjusted),510
+2011,E12000007,south-east,Slight collisions (adjusted),850
+2011,E12000008,london,Slight collisions (adjusted),270
+2011,E12000009,south-west,Slight collisions (adjusted),480
+2011,E92000001,england,Slight collisions (adjusted),4390
+2011,W92000004,wales,Slight collisions (adjusted),250
+2011,S92000003,scotland,Slight collisions (adjusted),330
+2011,K02000001,great-britain,Slight collisions (adjusted),4960
+2010,E12000001,north-east,Slight collisions (adjusted),230
+2010,E12000002,north-west,Slight collisions (adjusted),520
+2010,E12000003,yorkshire-and-humberside,Slight collisions (adjusted),350
+2010,E12000004,east-midlands,Slight collisions (adjusted),470
+2010,E12000005,west-midlands,Slight collisions (adjusted),620
+2010,E12000006,eastern,Slight collisions (adjusted),540
+2010,E12000007,south-east,Slight collisions (adjusted),830
+2010,E12000008,london,Slight collisions (adjusted),300
+2010,E12000009,south-west,Slight collisions (adjusted),480
+2010,E92000001,england,Slight collisions (adjusted),4340
+2010,W92000004,wales,Slight collisions (adjusted),290
+2010,S92000003,scotland,Slight collisions (adjusted),360
+2010,K02000001,great-britain,Slight collisions (adjusted),4990
+2021,E12000001,north-east,Total collisions,130
+2021,E12000002,north-west,Total collisions,460
+2021,E12000003,yorkshire-and-humberside,Total collisions,440
+2021,E12000004,east-midlands,Total collisions,460
+2021,E12000005,west-midlands,Total collisions,380
+2021,E12000006,eastern,Total collisions,550
+2021,E12000007,south-east,Total collisions,860
+2021,E12000008,london,Total collisions,510
+2021,E12000009,south-west,Total collisions,490
+2021,E92000001,england,Total collisions,4290
+2021,W92000004,wales,Total collisions,220
+2021,S92000003,scotland,Total collisions,150
+2021,K02000001,great-britain,Total collisions,4660
+2020,E12000001,north-east,Total collisions,130
+2020,E12000002,north-west,Total collisions,430
+2020,E12000003,yorkshire-and-humberside,Total collisions,390
+2020,E12000004,east-midlands,Total collisions,500
+2020,E12000005,west-midlands,Total collisions,390
+2020,E12000006,eastern,Total collisions,520
+2020,E12000007,south-east,Total collisions,890
+2020,E12000008,london,Total collisions,530
+2020,E12000009,south-west,Total collisions,420
+2020,E92000001,england,Total collisions,4200
+2020,W92000004,wales,Total collisions,210
+2020,S92000003,scotland,Total collisions,190
+2020,K02000001,great-britain,Total collisions,4600
+2019,E12000001,north-east,Total collisions,160
+2019,E12000002,north-west,Total collisions,510
+2019,E12000003,yorkshire-and-humberside,Total collisions,420
+2019,E12000004,east-midlands,Total collisions,550
+2019,E12000005,west-midlands,Total collisions,400
+2019,E12000006,eastern,Total collisions,610
+2019,E12000007,south-east,Total collisions,980
+2019,E12000008,london,Total collisions,660
+2019,E12000009,south-west,Total collisions,560
+2019,E92000001,england,Total collisions,4840
+2019,W92000004,wales,Total collisions,290
+2019,S92000003,scotland,Total collisions,230
+2019,K02000001,great-britain,Total collisions,5350
+2018,E12000001,north-east,Total collisions,220
+2018,E12000002,north-west,Total collisions,630
+2018,E12000003,yorkshire-and-humberside,Total collisions,490
+2018,E12000004,east-midlands,Total collisions,580
+2018,E12000005,west-midlands,Total collisions,470
+2018,E12000006,eastern,Total collisions,620
+2018,E12000007,south-east,Total collisions,1080
+2018,E12000008,london,Total collisions,760
+2018,E12000009,south-west,Total collisions,530
+2018,E92000001,england,Total collisions,5390
+2018,W92000004,wales,Total collisions,230
+2018,S92000003,scotland,Total collisions,280
+2018,K02000001,great-britain,Total collisions,5900
+2017,E12000001,north-east,Total collisions,180
+2017,E12000002,north-west,Total collisions,580
+2017,E12000003,yorkshire-and-humberside,Total collisions,460
+2017,E12000004,east-midlands,Total collisions,500
+2017,E12000005,west-midlands,Total collisions,500
+2017,E12000006,eastern,Total collisions,670
+2017,E12000007,south-east,Total collisions,1040
+2017,E12000008,london,Total collisions,760
+2017,E12000009,south-west,Total collisions,530
+2017,E92000001,england,Total collisions,5220
+2017,W92000004,wales,Total collisions,220
+2017,S92000003,scotland,Total collisions,270
+2017,K02000001,great-britain,Total collisions,5710
+2016,E12000001,north-east,Total collisions,200
+2016,E12000002,north-west,Total collisions,570
+2016,E12000003,yorkshire-and-humberside,Total collisions,510
+2016,E12000004,east-midlands,Total collisions,550
+2016,E12000005,west-midlands,Total collisions,610
+2016,E12000006,eastern,Total collisions,690
+2016,E12000007,south-east,Total collisions,1130
+2016,E12000008,london,Total collisions,500
+2016,E12000009,south-west,Total collisions,620
+2016,E92000001,england,Total collisions,5380
+2016,W92000004,wales,Total collisions,280
+2016,S92000003,scotland,Total collisions,410
+2016,K02000001,great-britain,Total collisions,6070
+2015,E12000001,north-east,Total collisions,230
+2015,E12000002,north-west,Total collisions,570
+2015,E12000003,yorkshire-and-humberside,Total collisions,510
+2015,E12000004,east-midlands,Total collisions,530
+2015,E12000005,west-midlands,Total collisions,640
+2015,E12000006,eastern,Total collisions,610
+2015,E12000007,south-east,Total collisions,1020
+2015,E12000008,london,Total collisions,400
+2015,E12000009,south-west,Total collisions,560
+2015,E92000001,england,Total collisions,5080
+2015,W92000004,wales,Total collisions,310
+2015,S92000003,scotland,Total collisions,340
+2015,K02000001,great-britain,Total collisions,5730
+2014,E12000001,north-east,Total collisions,230
+2014,E12000002,north-west,Total collisions,630
+2014,E12000003,yorkshire-and-humberside,Total collisions,510
+2014,E12000004,east-midlands,Total collisions,540
+2014,E12000005,west-midlands,Total collisions,590
+2014,E12000006,eastern,Total collisions,620
+2014,E12000007,south-east,Total collisions,950
+2014,E12000008,london,Total collisions,340
+2014,E12000009,south-west,Total collisions,550
+2014,E92000001,england,Total collisions,4960
+2014,W92000004,wales,Total collisions,320
+2014,S92000003,scotland,Total collisions,340
+2014,K02000001,great-britain,Total collisions,5620
+2013,E12000001,north-east,Total collisions,200
+2013,E12000002,north-west,Total collisions,660
+2013,E12000003,yorkshire-and-humberside,Total collisions,540
+2013,E12000004,east-midlands,Total collisions,570
+2013,E12000005,west-midlands,Total collisions,560
+2013,E12000006,eastern,Total collisions,620
+2013,E12000007,south-east,Total collisions,960
+2013,E12000008,london,Total collisions,350
+2013,E12000009,south-west,Total collisions,550
+2013,E92000001,england,Total collisions,5010
+2013,W92000004,wales,Total collisions,350
+2013,S92000003,scotland,Total collisions,320
+2013,K02000001,great-britain,Total collisions,5690
+2012,E12000001,north-east,Total collisions,260
+2012,E12000002,north-west,Total collisions,750
+2012,E12000003,yorkshire-and-humberside,Total collisions,630
+2012,E12000004,east-midlands,Total collisions,640
+2012,E12000005,west-midlands,Total collisions,710
+2012,E12000006,eastern,Total collisions,720
+2012,E12000007,south-east,Total collisions,1090
+2012,E12000008,london,Total collisions,370
+2012,E12000009,south-west,Total collisions,660
+2012,E92000001,england,Total collisions,5820
+2012,W92000004,wales,Total collisions,370
+2012,S92000003,scotland,Total collisions,440
+2012,K02000001,great-britain,Total collisions,6630
+2011,E12000001,north-east,Total collisions,250
+2011,E12000002,north-west,Total collisions,710
+2011,E12000003,yorkshire-and-humberside,Total collisions,650
+2011,E12000004,east-midlands,Total collisions,680
+2011,E12000005,west-midlands,Total collisions,780
+2011,E12000006,eastern,Total collisions,690
+2011,E12000007,south-east,Total collisions,1110
+2011,E12000008,london,Total collisions,360
+2011,E12000009,south-west,Total collisions,610
+2011,E92000001,england,Total collisions,5860
+2011,W92000004,wales,Total collisions,350
+2011,S92000003,scotland,Total collisions,490
+2011,K02000001,great-britain,Total collisions,6690
+2010,E12000001,north-east,Total collisions,300
+2010,E12000002,north-west,Total collisions,730
+2010,E12000003,yorkshire-and-humberside,Total collisions,490
+2010,E12000004,east-midlands,Total collisions,640
+2010,E12000005,west-midlands,Total collisions,760
+2010,E12000006,eastern,Total collisions,720
+2010,E12000007,south-east,Total collisions,1090
+2010,E12000008,london,Total collisions,370
+2010,E12000009,south-west,Total collisions,610
+2010,E92000001,england,Total collisions,5710
+2010,W92000004,wales,Total collisions,380
+2010,S92000003,scotland,Total collisions,530
+2010,K02000001,great-britain,Total collisions,6620
+2021,E12000001,north-east,Killed,10
+2021,E12000002,north-west,Killed,30
+2021,E12000003,yorkshire-and-humberside,Killed,20
+2021,E12000004,east-midlands,Killed,20
+2021,E12000005,west-midlands,Killed,30
+2021,E12000006,eastern,Killed,50
+2021,E12000007,south-east,Killed,40
+2021,E12000008,london,Killed,10
+2021,E12000009,south-west,Killed,30
+2021,E92000001,england,Killed,240
+2021,W92000004,wales,Killed,20
+2021,S92000003,scotland,Killed,10
+2021,K02000001,great-britain,Killed,260
+2020,E12000001,north-east,Killed,10
+2020,E12000002,north-west,Killed,30
+2020,E12000003,yorkshire-and-humberside,Killed,30
+2020,E12000004,east-midlands,Killed,20
+2020,E12000005,west-midlands,Killed,20
+2020,E12000006,eastern,Killed,20
+2020,E12000007,south-east,Killed,40
+2020,E12000008,london,Killed,10
+2020,E12000009,south-west,Killed,20
+2020,E92000001,england,Killed,190
+2020,W92000004,wales,Killed,10
+2020,S92000003,scotland,Killed,20
+2020,K02000001,great-britain,Killed,220
+2019,E12000001,north-east,Killed,10
+2019,E12000002,north-west,Killed,10
+2019,E12000003,yorkshire-and-humberside,Killed,20
+2019,E12000004,east-midlands,Killed,30
+2019,E12000005,west-midlands,Killed,20
+2019,E12000006,eastern,Killed,30
+2019,E12000007,south-east,Killed,50
+2019,E12000008,london,Killed,20
+2019,E12000009,south-west,Killed,20
+2019,E92000001,england,Killed,200
+2019,W92000004,wales,Killed,10
+2019,S92000003,scotland,Killed,20
+2019,K02000001,great-britain,Killed,230
+2018,E12000001,north-east,Killed,0
+2018,E12000002,north-west,Killed,30
+2018,E12000003,yorkshire-and-humberside,Killed,30
+2018,E12000004,east-midlands,Killed,40
+2018,E12000005,west-midlands,Killed,20
+2018,E12000006,eastern,Killed,20
+2018,E12000007,south-east,Killed,40
+2018,E12000008,london,Killed,10
+2018,E12000009,south-west,Killed,20
+2018,E92000001,england,Killed,200
+2018,W92000004,wales,Killed,20
+2018,S92000003,scotland,Killed,20
+2018,K02000001,great-britain,Killed,240
+2017,E12000001,north-east,Killed,0
+2017,E12000002,north-west,Killed,20
+2017,E12000003,yorkshire-and-humberside,Killed,30
+2017,E12000004,east-midlands,Killed,20
+2017,E12000005,west-midlands,Killed,30
+2017,E12000006,eastern,Killed,30
+2017,E12000007,south-east,Killed,60
+2017,E12000008,london,Killed,10
+2017,E12000009,south-west,Killed,30
+2017,E92000001,england,Killed,230
+2017,W92000004,wales,Killed,10
+2017,S92000003,scotland,Killed,10
+2017,K02000001,great-britain,Killed,250
+2016,E12000001,north-east,Killed,10
+2016,E12000002,north-west,Killed,20
+2016,E12000003,yorkshire-and-humberside,Killed,20
+2016,E12000004,east-midlands,Killed,20
+2016,E12000005,west-midlands,Killed,20
+2016,E12000006,eastern,Killed,20
+2016,E12000007,south-east,Killed,50
+2016,E12000008,london,Killed,10
+2016,E12000009,south-west,Killed,20
+2016,E92000001,england,Killed,180
+2016,W92000004,wales,Killed,20
+2016,S92000003,scotland,Killed,30
+2016,K02000001,great-britain,Killed,230
+2015,E12000001,north-east,Killed,10
+2015,E12000002,north-west,Killed,20
+2015,E12000003,yorkshire-and-humberside,Killed,20
+2015,E12000004,east-midlands,Killed,20
+2015,E12000005,west-midlands,Killed,20
+2015,E12000006,eastern,Killed,30
+2015,E12000007,south-east,Killed,20
+2015,E12000008,london,Killed,0
+2015,E12000009,south-west,Killed,20
+2015,E92000001,england,Killed,170
+2015,W92000004,wales,Killed,10
+2015,S92000003,scotland,Killed,20
+2015,K02000001,great-britain,Killed,200
+2014,E12000001,north-east,Killed,10
+2014,E12000002,north-west,Killed,10
+2014,E12000003,yorkshire-and-humberside,Killed,30
+2014,E12000004,east-midlands,Killed,20
+2014,E12000005,west-midlands,Killed,20
+2014,E12000006,eastern,Killed,40
+2014,E12000007,south-east,Killed,30
+2014,E12000008,london,Killed,0
+2014,E12000009,south-west,Killed,40
+2014,E92000001,england,Killed,210
+2014,W92000004,wales,Killed,10
+2014,S92000003,scotland,Killed,20
+2014,K02000001,great-britain,Killed,240
+2013,E12000001,north-east,Killed,20
+2013,E12000002,north-west,Killed,30
+2013,E12000003,yorkshire-and-humberside,Killed,30
+2013,E12000004,east-midlands,Killed,20
+2013,E12000005,west-midlands,Killed,20
+2013,E12000006,eastern,Killed,30
+2013,E12000007,south-east,Killed,30
+2013,E12000008,london,Killed,10
+2013,E12000009,south-west,Killed,30
+2013,E92000001,england,Killed,210
+2013,W92000004,wales,Killed,10
+2013,S92000003,scotland,Killed,20
+2013,K02000001,great-britain,Killed,240
+2012,E12000001,north-east,Killed,10
+2012,E12000002,north-west,Killed,20
+2012,E12000003,yorkshire-and-humberside,Killed,30
+2012,E12000004,east-midlands,Killed,30
+2012,E12000005,west-midlands,Killed,30
+2012,E12000006,eastern,Killed,20
+2012,E12000007,south-east,Killed,30
+2012,E12000008,london,Killed,10
+2012,E12000009,south-west,Killed,30
+2012,E92000001,england,Killed,210
+2012,W92000004,wales,Killed,10
+2012,S92000003,scotland,Killed,10
+2012,K02000001,great-britain,Killed,230
+2011,E12000001,north-east,Killed,10
+2011,E12000002,north-west,Killed,30
+2011,E12000003,yorkshire-and-humberside,Killed,20
+2011,E12000004,east-midlands,Killed,20
+2011,E12000005,west-midlands,Killed,20
+2011,E12000006,eastern,Killed,30
+2011,E12000007,south-east,Killed,40
+2011,E12000008,london,Killed,10
+2011,E12000009,south-west,Killed,30
+2011,E92000001,england,Killed,210
+2011,W92000004,wales,Killed,10
+2011,S92000003,scotland,Killed,10
+2011,K02000001,great-britain,Killed,240
+2010,E12000001,north-east,Killed,10
+2010,E12000002,north-west,Killed,30
+2010,E12000003,yorkshire-and-humberside,Killed,20
+2010,E12000004,east-midlands,Killed,30
+2010,E12000005,west-midlands,Killed,10
+2010,E12000006,eastern,Killed,20
+2010,E12000007,south-east,Killed,50
+2010,E12000008,london,Killed,10
+2010,E12000009,south-west,Killed,30
+2010,E92000001,england,Killed,210
+2010,W92000004,wales,Killed,10
+2010,S92000003,scotland,Killed,10
+2010,K02000001,great-britain,Killed,240
+2021,E12000001,north-east,Seriously injured (unadjusted) ,60
+2021,E12000002,north-west,Seriously injured (unadjusted) ,130
+2021,E12000003,yorkshire-and-humberside,Seriously injured (unadjusted) ,190
+2021,E12000004,east-midlands,Seriously injured (unadjusted) ,120
+2021,E12000005,west-midlands,Seriously injured (unadjusted) ,130
+2021,E12000006,eastern,Seriously injured (unadjusted) ,180
+2021,E12000007,south-east,Seriously injured (unadjusted) ,250
+2021,E12000008,london,Seriously injured (unadjusted) ,120
+2021,E12000009,south-west,Seriously injured (unadjusted) ,140
+2021,E92000001,england,Seriously injured (unadjusted) ,1310
+2021,W92000004,wales,Seriously injured (unadjusted) ,70
+2021,S92000003,scotland,Seriously injured (unadjusted) ,70
+2021,K02000001,great-britain,Seriously injured (unadjusted) ,1460
+2020,E12000001,north-east,Seriously injured (unadjusted) ,40
+2020,E12000002,north-west,Seriously injured (unadjusted) ,120
+2020,E12000003,yorkshire-and-humberside,Seriously injured (unadjusted) ,130
+2020,E12000004,east-midlands,Seriously injured (unadjusted) ,110
+2020,E12000005,west-midlands,Seriously injured (unadjusted) ,110
+2020,E12000006,eastern,Seriously injured (unadjusted) ,120
+2020,E12000007,south-east,Seriously injured (unadjusted) ,210
+2020,E12000008,london,Seriously injured (unadjusted) ,100
+2020,E12000009,south-west,Seriously injured (unadjusted) ,90
+2020,E92000001,england,Seriously injured (unadjusted) ,1030
+2020,W92000004,wales,Seriously injured (unadjusted) ,60
+2020,S92000003,scotland,Seriously injured (unadjusted) ,60
+2020,K02000001,great-britain,Seriously injured (unadjusted) ,1150
+2019,E12000001,north-east,Seriously injured (unadjusted) ,60
+2019,E12000002,north-west,Seriously injured (unadjusted) ,170
+2019,E12000003,yorkshire-and-humberside,Seriously injured (unadjusted) ,150
+2019,E12000004,east-midlands,Seriously injured (unadjusted) ,140
+2019,E12000005,west-midlands,Seriously injured (unadjusted) ,130
+2019,E12000006,eastern,Seriously injured (unadjusted) ,160
+2019,E12000007,south-east,Seriously injured (unadjusted) ,270
+2019,E12000008,london,Seriously injured (unadjusted) ,130
+2019,E12000009,south-west,Seriously injured (unadjusted) ,130
+2019,E92000001,england,Seriously injured (unadjusted) ,1340
+2019,W92000004,wales,Seriously injured (unadjusted) ,90
+2019,S92000003,scotland,Seriously injured (unadjusted) ,90
+2019,K02000001,great-britain,Seriously injured (unadjusted) ,1510
+2018,E12000001,north-east,Seriously injured (unadjusted) ,60
+2018,E12000002,north-west,Seriously injured (unadjusted) ,140
+2018,E12000003,yorkshire-and-humberside,Seriously injured (unadjusted) ,150
+2018,E12000004,east-midlands,Seriously injured (unadjusted) ,140
+2018,E12000005,west-midlands,Seriously injured (unadjusted) ,70
+2018,E12000006,eastern,Seriously injured (unadjusted) ,120
+2018,E12000007,south-east,Seriously injured (unadjusted) ,240
+2018,E12000008,london,Seriously injured (unadjusted) ,130
+2018,E12000009,south-west,Seriously injured (unadjusted) ,120
+2018,E92000001,england,Seriously injured (unadjusted) ,1190
+2018,W92000004,wales,Seriously injured (unadjusted) ,70
+2018,S92000003,scotland,Seriously injured (unadjusted) ,70
+2018,K02000001,great-britain,Seriously injured (unadjusted) ,1330
+2017,E12000001,north-east,Seriously injured (unadjusted) ,50
+2017,E12000002,north-west,Seriously injured (unadjusted) ,140
+2017,E12000003,yorkshire-and-humberside,Seriously injured (unadjusted) ,150
+2017,E12000004,east-midlands,Seriously injured (unadjusted) ,120
+2017,E12000005,west-midlands,Seriously injured (unadjusted) ,120
+2017,E12000006,eastern,Seriously injured (unadjusted) ,160
+2017,E12000007,south-east,Seriously injured (unadjusted) ,210
+2017,E12000008,london,Seriously injured (unadjusted) ,130
+2017,E12000009,south-west,Seriously injured (unadjusted) ,120
+2017,E92000001,england,Seriously injured (unadjusted) ,1200
+2017,W92000004,wales,Seriously injured (unadjusted) ,80
+2017,S92000003,scotland,Seriously injured (unadjusted) ,80
+2017,K02000001,great-britain,Seriously injured (unadjusted) ,1350
+2016,E12000001,north-east,Seriously injured (unadjusted) ,50
+2016,E12000002,north-west,Seriously injured (unadjusted) ,130
+2016,E12000003,yorkshire-and-humberside,Seriously injured (unadjusted) ,140
+2016,E12000004,east-midlands,Seriously injured (unadjusted) ,90
+2016,E12000005,west-midlands,Seriously injured (unadjusted) ,120
+2016,E12000006,eastern,Seriously injured (unadjusted) ,170
+2016,E12000007,south-east,Seriously injured (unadjusted) ,230
+2016,E12000008,london,Seriously injured (unadjusted) ,50
+2016,E12000009,south-west,Seriously injured (unadjusted) ,110
+2016,E92000001,england,Seriously injured (unadjusted) ,1080
+2016,W92000004,wales,Seriously injured (unadjusted) ,70
+2016,S92000003,scotland,Seriously injured (unadjusted) ,80
+2016,K02000001,great-britain,Seriously injured (unadjusted) ,1230
+2015,E12000001,north-east,Seriously injured (unadjusted) ,40
+2015,E12000002,north-west,Seriously injured (unadjusted) ,130
+2015,E12000003,yorkshire-and-humberside,Seriously injured (unadjusted) ,100
+2015,E12000004,east-midlands,Seriously injured (unadjusted) ,100
+2015,E12000005,west-midlands,Seriously injured (unadjusted) ,110
+2015,E12000006,eastern,Seriously injured (unadjusted) ,110
+2015,E12000007,south-east,Seriously injured (unadjusted) ,190
+2015,E12000008,london,Seriously injured (unadjusted) ,60
+2015,E12000009,south-west,Seriously injured (unadjusted) ,120
+2015,E92000001,england,Seriously injured (unadjusted) ,970
+2015,W92000004,wales,Seriously injured (unadjusted) ,100
+2015,S92000003,scotland,Seriously injured (unadjusted) ,90
+2015,K02000001,great-britain,Seriously injured (unadjusted) ,1150
+2014,E12000001,north-east,Seriously injured (unadjusted) ,30
+2014,E12000002,north-west,Seriously injured (unadjusted) ,140
+2014,E12000003,yorkshire-and-humberside,Seriously injured (unadjusted) ,120
+2014,E12000004,east-midlands,Seriously injured (unadjusted) ,110
+2014,E12000005,west-midlands,Seriously injured (unadjusted) ,90
+2014,E12000006,eastern,Seriously injured (unadjusted) ,100
+2014,E12000007,south-east,Seriously injured (unadjusted) ,210
+2014,E12000008,london,Seriously injured (unadjusted) ,30
+2014,E12000009,south-west,Seriously injured (unadjusted) ,90
+2014,E92000001,england,Seriously injured (unadjusted) ,940
+2014,W92000004,wales,Seriously injured (unadjusted) ,60
+2014,S92000003,scotland,Seriously injured (unadjusted) ,70
+2014,K02000001,great-britain,Seriously injured (unadjusted) ,1070
+2013,E12000001,north-east,Seriously injured (unadjusted) ,30
+2013,E12000002,north-west,Seriously injured (unadjusted) ,140
+2013,E12000003,yorkshire-and-humberside,Seriously injured (unadjusted) ,160
+2013,E12000004,east-midlands,Seriously injured (unadjusted) ,90
+2013,E12000005,west-midlands,Seriously injured (unadjusted) ,80
+2013,E12000006,eastern,Seriously injured (unadjusted) ,130
+2013,E12000007,south-east,Seriously injured (unadjusted) ,170
+2013,E12000008,london,Seriously injured (unadjusted) ,50
+2013,E12000009,south-west,Seriously injured (unadjusted) ,100
+2013,E92000001,england,Seriously injured (unadjusted) ,950
+2013,W92000004,wales,Seriously injured (unadjusted) ,70
+2013,S92000003,scotland,Seriously injured (unadjusted) ,70
+2013,K02000001,great-britain,Seriously injured (unadjusted) ,1100
+2012,E12000001,north-east,Seriously injured (unadjusted) ,40
+2012,E12000002,north-west,Seriously injured (unadjusted) ,140
+2012,E12000003,yorkshire-and-humberside,Seriously injured (unadjusted) ,140
+2012,E12000004,east-midlands,Seriously injured (unadjusted) ,130
+2012,E12000005,west-midlands,Seriously injured (unadjusted) ,110
+2012,E12000006,eastern,Seriously injured (unadjusted) ,130
+2012,E12000007,south-east,Seriously injured (unadjusted) ,160
+2012,E12000008,london,Seriously injured (unadjusted) ,60
+2012,E12000009,south-west,Seriously injured (unadjusted) ,110
+2012,E92000001,england,Seriously injured (unadjusted) ,1020
+2012,W92000004,wales,Seriously injured (unadjusted) ,70
+2012,S92000003,scotland,Seriously injured (unadjusted) ,100
+2012,K02000001,great-britain,Seriously injured (unadjusted) ,1200
+2011,E12000001,north-east,Seriously injured (unadjusted) ,40
+2011,E12000002,north-west,Seriously injured (unadjusted) ,170
+2011,E12000003,yorkshire-and-humberside,Seriously injured (unadjusted) ,140
+2011,E12000004,east-midlands,Seriously injured (unadjusted) ,120
+2011,E12000005,west-midlands,Seriously injured (unadjusted) ,120
+2011,E12000006,eastern,Seriously injured (unadjusted) ,150
+2011,E12000007,south-east,Seriously injured (unadjusted) ,210
+2011,E12000008,london,Seriously injured (unadjusted) ,60
+2011,E12000009,south-west,Seriously injured (unadjusted) ,100
+2011,E92000001,england,Seriously injured (unadjusted) ,1100
+2011,W92000004,wales,Seriously injured (unadjusted) ,80
+2011,S92000003,scotland,Seriously injured (unadjusted) ,90
+2011,K02000001,great-britain,Seriously injured (unadjusted) ,1270
+2010,E12000001,north-east,Seriously injured (unadjusted) ,60
+2010,E12000002,north-west,Seriously injured (unadjusted) ,150
+2010,E12000003,yorkshire-and-humberside,Seriously injured (unadjusted) ,110
+2010,E12000004,east-midlands,Seriously injured (unadjusted) ,130
+2010,E12000005,west-midlands,Seriously injured (unadjusted) ,100
+2010,E12000006,eastern,Seriously injured (unadjusted) ,150
+2010,E12000007,south-east,Seriously injured (unadjusted) ,190
+2010,E12000008,london,Seriously injured (unadjusted) ,50
+2010,E12000009,south-west,Seriously injured (unadjusted) ,110
+2010,E92000001,england,Seriously injured (unadjusted) ,1050
+2010,W92000004,wales,Seriously injured (unadjusted) ,80
+2010,S92000003,scotland,Seriously injured (unadjusted) ,110
+2010,K02000001,great-britain,Seriously injured (unadjusted) ,1240
+2021,E12000001,north-east,Seriously injured (adjusted),60
+2021,E12000002,north-west,Seriously injured (adjusted),150
+2021,E12000003,yorkshire-and-humberside,Seriously injured (adjusted),200
+2021,E12000004,east-midlands,Seriously injured (adjusted),170
+2021,E12000005,west-midlands,Seriously injured (adjusted),130
+2021,E12000006,eastern,Seriously injured (adjusted),180
+2021,E12000007,south-east,Seriously injured (adjusted),280
+2021,E12000008,london,Seriously injured (adjusted),120
+2021,E12000009,south-west,Seriously injured (adjusted),160
+2021,E92000001,england,Seriously injured (adjusted),1450
+2021,W92000004,wales,Seriously injured (adjusted),100
+2021,S92000003,scotland,Seriously injured (adjusted),70
+2021,K02000001,great-britain,Seriously injured (adjusted),1610
+2020,E12000001,north-east,Seriously injured (adjusted),50
+2020,E12000002,north-west,Seriously injured (adjusted),140
+2020,E12000003,yorkshire-and-humberside,Seriously injured (adjusted),150
+2020,E12000004,east-midlands,Seriously injured (adjusted),150
+2020,E12000005,west-midlands,Seriously injured (adjusted),110
+2020,E12000006,eastern,Seriously injured (adjusted),120
+2020,E12000007,south-east,Seriously injured (adjusted),240
+2020,E12000008,london,Seriously injured (adjusted),100
+2020,E12000009,south-west,Seriously injured (adjusted),110
+2020,E92000001,england,Seriously injured (adjusted),1160
+2020,W92000004,wales,Seriously injured (adjusted),80
+2020,S92000003,scotland,Seriously injured (adjusted),60
+2020,K02000001,great-britain,Seriously injured (adjusted),1300
+2019,E12000001,north-east,Seriously injured (adjusted),60
+2019,E12000002,north-west,Seriously injured (adjusted),210
+2019,E12000003,yorkshire-and-humberside,Seriously injured (adjusted),170
+2019,E12000004,east-midlands,Seriously injured (adjusted),190
+2019,E12000005,west-midlands,Seriously injured (adjusted),140
+2019,E12000006,eastern,Seriously injured (adjusted),160
+2019,E12000007,south-east,Seriously injured (adjusted),300
+2019,E12000008,london,Seriously injured (adjusted),130
+2019,E12000009,south-west,Seriously injured (adjusted),160
+2019,E92000001,england,Seriously injured (adjusted),1510
+2019,W92000004,wales,Seriously injured (adjusted),110
+2019,S92000003,scotland,Seriously injured (adjusted),110
+2019,K02000001,great-britain,Seriously injured (adjusted),1730
+2018,E12000001,north-east,Seriously injured (adjusted),70
+2018,E12000002,north-west,Seriously injured (adjusted),200
+2018,E12000003,yorkshire-and-humberside,Seriously injured (adjusted),180
+2018,E12000004,east-midlands,Seriously injured (adjusted),190
+2018,E12000005,west-midlands,Seriously injured (adjusted),80
+2018,E12000006,eastern,Seriously injured (adjusted),120
+2018,E12000007,south-east,Seriously injured (adjusted),290
+2018,E12000008,london,Seriously injured (adjusted),130
+2018,E12000009,south-west,Seriously injured (adjusted),140
+2018,E92000001,england,Seriously injured (adjusted),1390
+2018,W92000004,wales,Seriously injured (adjusted),90
+2018,S92000003,scotland,Seriously injured (adjusted),120
+2018,K02000001,great-britain,Seriously injured (adjusted),1600
+2017,E12000001,north-east,Seriously injured (adjusted),60
+2017,E12000002,north-west,Seriously injured (adjusted),190
+2017,E12000003,yorkshire-and-humberside,Seriously injured (adjusted),170
+2017,E12000004,east-midlands,Seriously injured (adjusted),160
+2017,E12000005,west-midlands,Seriously injured (adjusted),130
+2017,E12000006,eastern,Seriously injured (adjusted),160
+2017,E12000007,south-east,Seriously injured (adjusted),250
+2017,E12000008,london,Seriously injured (adjusted),130
+2017,E12000009,south-west,Seriously injured (adjusted),150
+2017,E92000001,england,Seriously injured (adjusted),1380
+2017,W92000004,wales,Seriously injured (adjusted),100
+2017,S92000003,scotland,Seriously injured (adjusted),130
+2017,K02000001,great-britain,Seriously injured (adjusted),1600
+2016,E12000001,north-east,Seriously injured (adjusted),60
+2016,E12000002,north-west,Seriously injured (adjusted),170
+2016,E12000003,yorkshire-and-humberside,Seriously injured (adjusted),160
+2016,E12000004,east-midlands,Seriously injured (adjusted),140
+2016,E12000005,west-midlands,Seriously injured (adjusted),120
+2016,E12000006,eastern,Seriously injured (adjusted),170
+2016,E12000007,south-east,Seriously injured (adjusted),280
+2016,E12000008,london,Seriously injured (adjusted),70
+2016,E12000009,south-west,Seriously injured (adjusted),140
+2016,E92000001,england,Seriously injured (adjusted),1310
+2016,W92000004,wales,Seriously injured (adjusted),90
+2016,S92000003,scotland,Seriously injured (adjusted),150
+2016,K02000001,great-britain,Seriously injured (adjusted),1550
+2015,E12000001,north-east,Seriously injured (adjusted),60
+2015,E12000002,north-west,Seriously injured (adjusted),190
+2015,E12000003,yorkshire-and-humberside,Seriously injured (adjusted),150
+2015,E12000004,east-midlands,Seriously injured (adjusted),150
+2015,E12000005,west-midlands,Seriously injured (adjusted),130
+2015,E12000006,eastern,Seriously injured (adjusted),140
+2015,E12000007,south-east,Seriously injured (adjusted),250
+2015,E12000008,london,Seriously injured (adjusted),80
+2015,E12000009,south-west,Seriously injured (adjusted),150
+2015,E92000001,england,Seriously injured (adjusted),1300
+2015,W92000004,wales,Seriously injured (adjusted),130
+2015,S92000003,scotland,Seriously injured (adjusted),140
+2015,K02000001,great-britain,Seriously injured (adjusted),1570
+2014,E12000001,north-east,Seriously injured (adjusted),50
+2014,E12000002,north-west,Seriously injured (adjusted),210
+2014,E12000003,yorkshire-and-humberside,Seriously injured (adjusted),160
+2014,E12000004,east-midlands,Seriously injured (adjusted),150
+2014,E12000005,west-midlands,Seriously injured (adjusted),130
+2014,E12000006,eastern,Seriously injured (adjusted),140
+2014,E12000007,south-east,Seriously injured (adjusted),270
+2014,E12000008,london,Seriously injured (adjusted),50
+2014,E12000009,south-west,Seriously injured (adjusted),120
+2014,E92000001,england,Seriously injured (adjusted),1290
+2014,W92000004,wales,Seriously injured (adjusted),90
+2014,S92000003,scotland,Seriously injured (adjusted),130
+2014,K02000001,great-britain,Seriously injured (adjusted),1510
+2013,E12000001,north-east,Seriously injured (adjusted),50
+2013,E12000002,north-west,Seriously injured (adjusted),210
+2013,E12000003,yorkshire-and-humberside,Seriously injured (adjusted),210
+2013,E12000004,east-midlands,Seriously injured (adjusted),140
+2013,E12000005,west-midlands,Seriously injured (adjusted),110
+2013,E12000006,eastern,Seriously injured (adjusted),170
+2013,E12000007,south-east,Seriously injured (adjusted),230
+2013,E12000008,london,Seriously injured (adjusted),70
+2013,E12000009,south-west,Seriously injured (adjusted),130
+2013,E92000001,england,Seriously injured (adjusted),1320
+2013,W92000004,wales,Seriously injured (adjusted),100
+2013,S92000003,scotland,Seriously injured (adjusted),130
+2013,K02000001,great-britain,Seriously injured (adjusted),1550
+2012,E12000001,north-east,Seriously injured (adjusted),60
+2012,E12000002,north-west,Seriously injured (adjusted),200
+2012,E12000003,yorkshire-and-humberside,Seriously injured (adjusted),200
+2012,E12000004,east-midlands,Seriously injured (adjusted),190
+2012,E12000005,west-midlands,Seriously injured (adjusted),160
+2012,E12000006,eastern,Seriously injured (adjusted),170
+2012,E12000007,south-east,Seriously injured (adjusted),230
+2012,E12000008,london,Seriously injured (adjusted),80
+2012,E12000009,south-west,Seriously injured (adjusted),140
+2012,E92000001,england,Seriously injured (adjusted),1440
+2012,W92000004,wales,Seriously injured (adjusted),100
+2012,S92000003,scotland,Seriously injured (adjusted),170
+2012,K02000001,great-britain,Seriously injured (adjusted),1710
+2011,E12000001,north-east,Seriously injured (adjusted),60
+2011,E12000002,north-west,Seriously injured (adjusted),240
+2011,E12000003,yorkshire-and-humberside,Seriously injured (adjusted),210
+2011,E12000004,east-midlands,Seriously injured (adjusted),170
+2011,E12000005,west-midlands,Seriously injured (adjusted),180
+2011,E12000006,eastern,Seriously injured (adjusted),190
+2011,E12000007,south-east,Seriously injured (adjusted),270
+2011,E12000008,london,Seriously injured (adjusted),90
+2011,E12000009,south-west,Seriously injured (adjusted),120
+2011,E92000001,england,Seriously injured (adjusted),1540
+2011,W92000004,wales,Seriously injured (adjusted),110
+2011,S92000003,scotland,Seriously injured (adjusted),170
+2011,K02000001,great-britain,Seriously injured (adjusted),1820
+2010,E12000001,north-east,Seriously injured (adjusted),80
+2010,E12000002,north-west,Seriously injured (adjusted),220
+2010,E12000003,yorkshire-and-humberside,Seriously injured (adjusted),150
+2010,E12000004,east-midlands,Seriously injured (adjusted),180
+2010,E12000005,west-midlands,Seriously injured (adjusted),150
+2010,E12000006,eastern,Seriously injured (adjusted),190
+2010,E12000007,south-east,Seriously injured (adjusted),250
+2010,E12000008,london,Seriously injured (adjusted),80
+2010,E12000009,south-west,Seriously injured (adjusted),130
+2010,E92000001,england,Seriously injured (adjusted),1430
+2010,W92000004,wales,Seriously injured (adjusted),110
+2010,S92000003,scotland,Seriously injured (adjusted),210
+2010,K02000001,great-britain,Seriously injured (adjusted),1740
+2021,E12000001,north-east,Killed or seriously injured (KSI) unadjusted,70
+2021,E12000002,north-west,Killed or seriously injured (KSI) unadjusted,160
+2021,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) unadjusted,220
+2021,E12000004,east-midlands,Killed or seriously injured (KSI) unadjusted,150
+2021,E12000005,west-midlands,Killed or seriously injured (KSI) unadjusted,160
+2021,E12000006,eastern,Killed or seriously injured (KSI) unadjusted,230
+2021,E12000007,south-east,Killed or seriously injured (KSI) unadjusted,290
+2021,E12000008,london,Killed or seriously injured (KSI) unadjusted,120
+2021,E12000009,south-west,Killed or seriously injured (KSI) unadjusted,160
+2021,E92000001,england,Killed or seriously injured (KSI) unadjusted,1550
+2021,W92000004,wales,Killed or seriously injured (KSI) unadjusted,90
+2021,S92000003,scotland,Killed or seriously injured (KSI) unadjusted,80
+2021,K02000001,great-britain,Killed or seriously injured (KSI) unadjusted,1720
+2020,E12000001,north-east,Killed or seriously injured (KSI) unadjusted,50
+2020,E12000002,north-west,Killed or seriously injured (KSI) unadjusted,150
+2020,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) unadjusted,160
+2020,E12000004,east-midlands,Killed or seriously injured (KSI) unadjusted,130
+2020,E12000005,west-midlands,Killed or seriously injured (KSI) unadjusted,130
+2020,E12000006,eastern,Killed or seriously injured (KSI) unadjusted,140
+2020,E12000007,south-east,Killed or seriously injured (KSI) unadjusted,250
+2020,E12000008,london,Killed or seriously injured (KSI) unadjusted,110
+2020,E12000009,south-west,Killed or seriously injured (KSI) unadjusted,120
+2020,E92000001,england,Killed or seriously injured (KSI) unadjusted,1230
+2020,W92000004,wales,Killed or seriously injured (KSI) unadjusted,70
+2020,S92000003,scotland,Killed or seriously injured (KSI) unadjusted,80
+2020,K02000001,great-britain,Killed or seriously injured (KSI) unadjusted,1370
+2019,E12000001,north-east,Killed or seriously injured (KSI) unadjusted,70
+2019,E12000002,north-west,Killed or seriously injured (KSI) unadjusted,180
+2019,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) unadjusted,170
+2019,E12000004,east-midlands,Killed or seriously injured (KSI) unadjusted,160
+2019,E12000005,west-midlands,Killed or seriously injured (KSI) unadjusted,150
+2019,E12000006,eastern,Killed or seriously injured (KSI) unadjusted,190
+2019,E12000007,south-east,Killed or seriously injured (KSI) unadjusted,310
+2019,E12000008,london,Killed or seriously injured (KSI) unadjusted,150
+2019,E12000009,south-west,Killed or seriously injured (KSI) unadjusted,160
+2019,E92000001,england,Killed or seriously injured (KSI) unadjusted,1540
+2019,W92000004,wales,Killed or seriously injured (KSI) unadjusted,100
+2019,S92000003,scotland,Killed or seriously injured (KSI) unadjusted,110
+2019,K02000001,great-britain,Killed or seriously injured (KSI) unadjusted,1740
+2018,E12000001,north-east,Killed or seriously injured (KSI) unadjusted,70
+2018,E12000002,north-west,Killed or seriously injured (KSI) unadjusted,180
+2018,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) unadjusted,180
+2018,E12000004,east-midlands,Killed or seriously injured (KSI) unadjusted,180
+2018,E12000005,west-midlands,Killed or seriously injured (KSI) unadjusted,90
+2018,E12000006,eastern,Killed or seriously injured (KSI) unadjusted,140
+2018,E12000007,south-east,Killed or seriously injured (KSI) unadjusted,280
+2018,E12000008,london,Killed or seriously injured (KSI) unadjusted,140
+2018,E12000009,south-west,Killed or seriously injured (KSI) unadjusted,140
+2018,E92000001,england,Killed or seriously injured (KSI) unadjusted,1390
+2018,W92000004,wales,Killed or seriously injured (KSI) unadjusted,80
+2018,S92000003,scotland,Killed or seriously injured (KSI) unadjusted,90
+2018,K02000001,great-britain,Killed or seriously injured (KSI) unadjusted,1570
+2017,E12000001,north-east,Killed or seriously injured (KSI) unadjusted,60
+2017,E12000002,north-west,Killed or seriously injured (KSI) unadjusted,160
+2017,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) unadjusted,170
+2017,E12000004,east-midlands,Killed or seriously injured (KSI) unadjusted,140
+2017,E12000005,west-midlands,Killed or seriously injured (KSI) unadjusted,160
+2017,E12000006,eastern,Killed or seriously injured (KSI) unadjusted,180
+2017,E12000007,south-east,Killed or seriously injured (KSI) unadjusted,270
+2017,E12000008,london,Killed or seriously injured (KSI) unadjusted,130
+2017,E12000009,south-west,Killed or seriously injured (KSI) unadjusted,160
+2017,E92000001,england,Killed or seriously injured (KSI) unadjusted,1430
+2017,W92000004,wales,Killed or seriously injured (KSI) unadjusted,90
+2017,S92000003,scotland,Killed or seriously injured (KSI) unadjusted,90
+2017,K02000001,great-britain,Killed or seriously injured (KSI) unadjusted,1600
+2016,E12000001,north-east,Killed or seriously injured (KSI) unadjusted,60
+2016,E12000002,north-west,Killed or seriously injured (KSI) unadjusted,140
+2016,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) unadjusted,150
+2016,E12000004,east-midlands,Killed or seriously injured (KSI) unadjusted,120
+2016,E12000005,west-midlands,Killed or seriously injured (KSI) unadjusted,140
+2016,E12000006,eastern,Killed or seriously injured (KSI) unadjusted,190
+2016,E12000007,south-east,Killed or seriously injured (KSI) unadjusted,270
+2016,E12000008,london,Killed or seriously injured (KSI) unadjusted,60
+2016,E12000009,south-west,Killed or seriously injured (KSI) unadjusted,130
+2016,E92000001,england,Killed or seriously injured (KSI) unadjusted,1260
+2016,W92000004,wales,Killed or seriously injured (KSI) unadjusted,90
+2016,S92000003,scotland,Killed or seriously injured (KSI) unadjusted,120
+2016,K02000001,great-britain,Killed or seriously injured (KSI) unadjusted,1460
+2015,E12000001,north-east,Killed or seriously injured (KSI) unadjusted,50
+2015,E12000002,north-west,Killed or seriously injured (KSI) unadjusted,160
+2015,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) unadjusted,120
+2015,E12000004,east-midlands,Killed or seriously injured (KSI) unadjusted,120
+2015,E12000005,west-midlands,Killed or seriously injured (KSI) unadjusted,130
+2015,E12000006,eastern,Killed or seriously injured (KSI) unadjusted,140
+2015,E12000007,south-east,Killed or seriously injured (KSI) unadjusted,220
+2015,E12000008,london,Killed or seriously injured (KSI) unadjusted,60
+2015,E12000009,south-west,Killed or seriously injured (KSI) unadjusted,140
+2015,E92000001,england,Killed or seriously injured (KSI) unadjusted,1140
+2015,W92000004,wales,Killed or seriously injured (KSI) unadjusted,110
+2015,S92000003,scotland,Killed or seriously injured (KSI) unadjusted,100
+2015,K02000001,great-britain,Killed or seriously injured (KSI) unadjusted,1350
+2014,E12000001,north-east,Killed or seriously injured (KSI) unadjusted,50
+2014,E12000002,north-west,Killed or seriously injured (KSI) unadjusted,150
+2014,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) unadjusted,140
+2014,E12000004,east-midlands,Killed or seriously injured (KSI) unadjusted,130
+2014,E12000005,west-midlands,Killed or seriously injured (KSI) unadjusted,120
+2014,E12000006,eastern,Killed or seriously injured (KSI) unadjusted,140
+2014,E12000007,south-east,Killed or seriously injured (KSI) unadjusted,240
+2014,E12000008,london,Killed or seriously injured (KSI) unadjusted,40
+2014,E12000009,south-west,Killed or seriously injured (KSI) unadjusted,140
+2014,E92000001,england,Killed or seriously injured (KSI) unadjusted,1150
+2014,W92000004,wales,Killed or seriously injured (KSI) unadjusted,80
+2014,S92000003,scotland,Killed or seriously injured (KSI) unadjusted,80
+2014,K02000001,great-britain,Killed or seriously injured (KSI) unadjusted,1310
+2013,E12000001,north-east,Killed or seriously injured (KSI) unadjusted,50
+2013,E12000002,north-west,Killed or seriously injured (KSI) unadjusted,170
+2013,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) unadjusted,190
+2013,E12000004,east-midlands,Killed or seriously injured (KSI) unadjusted,110
+2013,E12000005,west-midlands,Killed or seriously injured (KSI) unadjusted,100
+2013,E12000006,eastern,Killed or seriously injured (KSI) unadjusted,160
+2013,E12000007,south-east,Killed or seriously injured (KSI) unadjusted,200
+2013,E12000008,london,Killed or seriously injured (KSI) unadjusted,60
+2013,E12000009,south-west,Killed or seriously injured (KSI) unadjusted,130
+2013,E92000001,england,Killed or seriously injured (KSI) unadjusted,1160
+2013,W92000004,wales,Killed or seriously injured (KSI) unadjusted,90
+2013,S92000003,scotland,Killed or seriously injured (KSI) unadjusted,90
+2013,K02000001,great-britain,Killed or seriously injured (KSI) unadjusted,1340
+2012,E12000001,north-east,Killed or seriously injured (KSI) unadjusted,60
+2012,E12000002,north-west,Killed or seriously injured (KSI) unadjusted,160
+2012,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) unadjusted,170
+2012,E12000004,east-midlands,Killed or seriously injured (KSI) unadjusted,160
+2012,E12000005,west-midlands,Killed or seriously injured (KSI) unadjusted,140
+2012,E12000006,eastern,Killed or seriously injured (KSI) unadjusted,150
+2012,E12000007,south-east,Killed or seriously injured (KSI) unadjusted,190
+2012,E12000008,london,Killed or seriously injured (KSI) unadjusted,60
+2012,E12000009,south-west,Killed or seriously injured (KSI) unadjusted,140
+2012,E92000001,england,Killed or seriously injured (KSI) unadjusted,1230
+2012,W92000004,wales,Killed or seriously injured (KSI) unadjusted,80
+2012,S92000003,scotland,Killed or seriously injured (KSI) unadjusted,110
+2012,K02000001,great-britain,Killed or seriously injured (KSI) unadjusted,1430
+2011,E12000001,north-east,Killed or seriously injured (KSI) unadjusted,50
+2011,E12000002,north-west,Killed or seriously injured (KSI) unadjusted,200
+2011,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) unadjusted,160
+2011,E12000004,east-midlands,Killed or seriously injured (KSI) unadjusted,140
+2011,E12000005,west-midlands,Killed or seriously injured (KSI) unadjusted,140
+2011,E12000006,eastern,Killed or seriously injured (KSI) unadjusted,170
+2011,E12000007,south-east,Killed or seriously injured (KSI) unadjusted,260
+2011,E12000008,london,Killed or seriously injured (KSI) unadjusted,70
+2011,E12000009,south-west,Killed or seriously injured (KSI) unadjusted,120
+2011,E92000001,england,Killed or seriously injured (KSI) unadjusted,1310
+2011,W92000004,wales,Killed or seriously injured (KSI) unadjusted,90
+2011,S92000003,scotland,Killed or seriously injured (KSI) unadjusted,100
+2011,K02000001,great-britain,Killed or seriously injured (KSI) unadjusted,1500
+2010,E12000001,north-east,Killed or seriously injured (KSI) unadjusted,70
+2010,E12000002,north-west,Killed or seriously injured (KSI) unadjusted,180
+2010,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) unadjusted,130
+2010,E12000004,east-midlands,Killed or seriously injured (KSI) unadjusted,160
+2010,E12000005,west-midlands,Killed or seriously injured (KSI) unadjusted,110
+2010,E12000006,eastern,Killed or seriously injured (KSI) unadjusted,170
+2010,E12000007,south-east,Killed or seriously injured (KSI) unadjusted,250
+2010,E12000008,london,Killed or seriously injured (KSI) unadjusted,60
+2010,E12000009,south-west,Killed or seriously injured (KSI) unadjusted,130
+2010,E92000001,england,Killed or seriously injured (KSI) unadjusted,1260
+2010,W92000004,wales,Killed or seriously injured (KSI) unadjusted,90
+2010,S92000003,scotland,Killed or seriously injured (KSI) unadjusted,130
+2010,K02000001,great-britain,Killed or seriously injured (KSI) unadjusted,1480
+2021,E12000001,north-east,Killed or seriously injured (KSI) adjusted,80
+2021,E12000002,north-west,Killed or seriously injured (KSI) adjusted,170
+2021,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) adjusted,220
+2021,E12000004,east-midlands,Killed or seriously injured (KSI) adjusted,190
+2021,E12000005,west-midlands,Killed or seriously injured (KSI) adjusted,160
+2021,E12000006,eastern,Killed or seriously injured (KSI) adjusted,230
+2021,E12000007,south-east,Killed or seriously injured (KSI) adjusted,320
+2021,E12000008,london,Killed or seriously injured (KSI) adjusted,130
+2021,E12000009,south-west,Killed or seriously injured (KSI) adjusted,180
+2021,E92000001,england,Killed or seriously injured (KSI) adjusted,1690
+2021,W92000004,wales,Killed or seriously injured (KSI) adjusted,110
+2021,S92000003,scotland,Killed or seriously injured (KSI) adjusted,80
+2021,K02000001,great-britain,Killed or seriously injured (KSI) adjusted,1880
+2020,E12000001,north-east,Killed or seriously injured (KSI) adjusted,60
+2020,E12000002,north-west,Killed or seriously injured (KSI) adjusted,170
+2020,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) adjusted,170
+2020,E12000004,east-midlands,Killed or seriously injured (KSI) adjusted,170
+2020,E12000005,west-midlands,Killed or seriously injured (KSI) adjusted,130
+2020,E12000006,eastern,Killed or seriously injured (KSI) adjusted,140
+2020,E12000007,south-east,Killed or seriously injured (KSI) adjusted,280
+2020,E12000008,london,Killed or seriously injured (KSI) adjusted,110
+2020,E12000009,south-west,Killed or seriously injured (KSI) adjusted,130
+2020,E92000001,england,Killed or seriously injured (KSI) adjusted,1360
+2020,W92000004,wales,Killed or seriously injured (KSI) adjusted,90
+2020,S92000003,scotland,Killed or seriously injured (KSI) adjusted,80
+2020,K02000001,great-britain,Killed or seriously injured (KSI) adjusted,1520
+2019,E12000001,north-east,Killed or seriously injured (KSI) adjusted,70
+2019,E12000002,north-west,Killed or seriously injured (KSI) adjusted,220
+2019,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) adjusted,190
+2019,E12000004,east-midlands,Killed or seriously injured (KSI) adjusted,210
+2019,E12000005,west-midlands,Killed or seriously injured (KSI) adjusted,160
+2019,E12000006,eastern,Killed or seriously injured (KSI) adjusted,190
+2019,E12000007,south-east,Killed or seriously injured (KSI) adjusted,350
+2019,E12000008,london,Killed or seriously injured (KSI) adjusted,150
+2019,E12000009,south-west,Killed or seriously injured (KSI) adjusted,180
+2019,E92000001,england,Killed or seriously injured (KSI) adjusted,1710
+2019,W92000004,wales,Killed or seriously injured (KSI) adjusted,130
+2019,S92000003,scotland,Killed or seriously injured (KSI) adjusted,130
+2019,K02000001,great-britain,Killed or seriously injured (KSI) adjusted,1960
+2018,E12000001,north-east,Killed or seriously injured (KSI) adjusted,70
+2018,E12000002,north-west,Killed or seriously injured (KSI) adjusted,230
+2018,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) adjusted,210
+2018,E12000004,east-midlands,Killed or seriously injured (KSI) adjusted,230
+2018,E12000005,west-midlands,Killed or seriously injured (KSI) adjusted,90
+2018,E12000006,eastern,Killed or seriously injured (KSI) adjusted,140
+2018,E12000007,south-east,Killed or seriously injured (KSI) adjusted,320
+2018,E12000008,london,Killed or seriously injured (KSI) adjusted,140
+2018,E12000009,south-west,Killed or seriously injured (KSI) adjusted,160
+2018,E92000001,england,Killed or seriously injured (KSI) adjusted,1600
+2018,W92000004,wales,Killed or seriously injured (KSI) adjusted,100
+2018,S92000003,scotland,Killed or seriously injured (KSI) adjusted,130
+2018,K02000001,great-britain,Killed or seriously injured (KSI) adjusted,1830
+2017,E12000001,north-east,Killed or seriously injured (KSI) adjusted,60
+2017,E12000002,north-west,Killed or seriously injured (KSI) adjusted,210
+2017,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) adjusted,200
+2017,E12000004,east-midlands,Killed or seriously injured (KSI) adjusted,180
+2017,E12000005,west-midlands,Killed or seriously injured (KSI) adjusted,160
+2017,E12000006,eastern,Killed or seriously injured (KSI) adjusted,190
+2017,E12000007,south-east,Killed or seriously injured (KSI) adjusted,310
+2017,E12000008,london,Killed or seriously injured (KSI) adjusted,130
+2017,E12000009,south-west,Killed or seriously injured (KSI) adjusted,180
+2017,E92000001,england,Killed or seriously injured (KSI) adjusted,1610
+2017,W92000004,wales,Killed or seriously injured (KSI) adjusted,110
+2017,S92000003,scotland,Killed or seriously injured (KSI) adjusted,140
+2017,K02000001,great-britain,Killed or seriously injured (KSI) adjusted,1860
+2016,E12000001,north-east,Killed or seriously injured (KSI) adjusted,70
+2016,E12000002,north-west,Killed or seriously injured (KSI) adjusted,190
+2016,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) adjusted,180
+2016,E12000004,east-midlands,Killed or seriously injured (KSI) adjusted,160
+2016,E12000005,west-midlands,Killed or seriously injured (KSI) adjusted,140
+2016,E12000006,eastern,Killed or seriously injured (KSI) adjusted,190
+2016,E12000007,south-east,Killed or seriously injured (KSI) adjusted,320
+2016,E12000008,london,Killed or seriously injured (KSI) adjusted,80
+2016,E12000009,south-west,Killed or seriously injured (KSI) adjusted,160
+2016,E92000001,england,Killed or seriously injured (KSI) adjusted,1490
+2016,W92000004,wales,Killed or seriously injured (KSI) adjusted,110
+2016,S92000003,scotland,Killed or seriously injured (KSI) adjusted,180
+2016,K02000001,great-britain,Killed or seriously injured (KSI) adjusted,1790
+2015,E12000001,north-east,Killed or seriously injured (KSI) adjusted,70
+2015,E12000002,north-west,Killed or seriously injured (KSI) adjusted,220
+2015,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) adjusted,170
+2015,E12000004,east-midlands,Killed or seriously injured (KSI) adjusted,170
+2015,E12000005,west-midlands,Killed or seriously injured (KSI) adjusted,150
+2015,E12000006,eastern,Killed or seriously injured (KSI) adjusted,170
+2015,E12000007,south-east,Killed or seriously injured (KSI) adjusted,280
+2015,E12000008,london,Killed or seriously injured (KSI) adjusted,80
+2015,E12000009,south-west,Killed or seriously injured (KSI) adjusted,170
+2015,E92000001,england,Killed or seriously injured (KSI) adjusted,1470
+2015,W92000004,wales,Killed or seriously injured (KSI) adjusted,140
+2015,S92000003,scotland,Killed or seriously injured (KSI) adjusted,160
+2015,K02000001,great-britain,Killed or seriously injured (KSI) adjusted,1770
+2014,E12000001,north-east,Killed or seriously injured (KSI) adjusted,60
+2014,E12000002,north-west,Killed or seriously injured (KSI) adjusted,220
+2014,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) adjusted,190
+2014,E12000004,east-midlands,Killed or seriously injured (KSI) adjusted,170
+2014,E12000005,west-midlands,Killed or seriously injured (KSI) adjusted,160
+2014,E12000006,eastern,Killed or seriously injured (KSI) adjusted,180
+2014,E12000007,south-east,Killed or seriously injured (KSI) adjusted,300
+2014,E12000008,london,Killed or seriously injured (KSI) adjusted,60
+2014,E12000009,south-west,Killed or seriously injured (KSI) adjusted,160
+2014,E92000001,england,Killed or seriously injured (KSI) adjusted,1500
+2014,W92000004,wales,Killed or seriously injured (KSI) adjusted,100
+2014,S92000003,scotland,Killed or seriously injured (KSI) adjusted,140
+2014,K02000001,great-britain,Killed or seriously injured (KSI) adjusted,1740
+2013,E12000001,north-east,Killed or seriously injured (KSI) adjusted,70
+2013,E12000002,north-west,Killed or seriously injured (KSI) adjusted,230
+2013,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) adjusted,240
+2013,E12000004,east-midlands,Killed or seriously injured (KSI) adjusted,160
+2013,E12000005,west-midlands,Killed or seriously injured (KSI) adjusted,130
+2013,E12000006,eastern,Killed or seriously injured (KSI) adjusted,200
+2013,E12000007,south-east,Killed or seriously injured (KSI) adjusted,260
+2013,E12000008,london,Killed or seriously injured (KSI) adjusted,80
+2013,E12000009,south-west,Killed or seriously injured (KSI) adjusted,150
+2013,E92000001,england,Killed or seriously injured (KSI) adjusted,1530
+2013,W92000004,wales,Killed or seriously injured (KSI) adjusted,120
+2013,S92000003,scotland,Killed or seriously injured (KSI) adjusted,140
+2013,K02000001,great-britain,Killed or seriously injured (KSI) adjusted,1790
+2012,E12000001,north-east,Killed or seriously injured (KSI) adjusted,80
+2012,E12000002,north-west,Killed or seriously injured (KSI) adjusted,230
+2012,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) adjusted,230
+2012,E12000004,east-midlands,Killed or seriously injured (KSI) adjusted,210
+2012,E12000005,west-midlands,Killed or seriously injured (KSI) adjusted,190
+2012,E12000006,eastern,Killed or seriously injured (KSI) adjusted,190
+2012,E12000007,south-east,Killed or seriously injured (KSI) adjusted,260
+2012,E12000008,london,Killed or seriously injured (KSI) adjusted,90
+2012,E12000009,south-west,Killed or seriously injured (KSI) adjusted,170
+2012,E92000001,england,Killed or seriously injured (KSI) adjusted,1640
+2012,W92000004,wales,Killed or seriously injured (KSI) adjusted,120
+2012,S92000003,scotland,Killed or seriously injured (KSI) adjusted,180
+2012,K02000001,great-britain,Killed or seriously injured (KSI) adjusted,1940
+2011,E12000001,north-east,Killed or seriously injured (KSI) adjusted,70
+2011,E12000002,north-west,Killed or seriously injured (KSI) adjusted,270
+2011,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) adjusted,230
+2011,E12000004,east-midlands,Killed or seriously injured (KSI) adjusted,200
+2011,E12000005,west-midlands,Killed or seriously injured (KSI) adjusted,200
+2011,E12000006,eastern,Killed or seriously injured (KSI) adjusted,220
+2011,E12000007,south-east,Killed or seriously injured (KSI) adjusted,320
+2011,E12000008,london,Killed or seriously injured (KSI) adjusted,100
+2011,E12000009,south-west,Killed or seriously injured (KSI) adjusted,150
+2011,E92000001,england,Killed or seriously injured (KSI) adjusted,1740
+2011,W92000004,wales,Killed or seriously injured (KSI) adjusted,120
+2011,S92000003,scotland,Killed or seriously injured (KSI) adjusted,190
+2011,K02000001,great-britain,Killed or seriously injured (KSI) adjusted,2050
+2010,E12000001,north-east,Killed or seriously injured (KSI) adjusted,90
+2010,E12000002,north-west,Killed or seriously injured (KSI) adjusted,250
+2010,E12000003,yorkshire-and-humberside,Killed or seriously injured (KSI) adjusted,170
+2010,E12000004,east-midlands,Killed or seriously injured (KSI) adjusted,210
+2010,E12000005,west-midlands,Killed or seriously injured (KSI) adjusted,150
+2010,E12000006,eastern,Killed or seriously injured (KSI) adjusted,210
+2010,E12000007,south-east,Killed or seriously injured (KSI) adjusted,310
+2010,E12000008,london,Killed or seriously injured (KSI) adjusted,80
+2010,E12000009,south-west,Killed or seriously injured (KSI) adjusted,160
+2010,E92000001,england,Killed or seriously injured (KSI) adjusted,1640
+2010,W92000004,wales,Killed or seriously injured (KSI) adjusted,120
+2010,S92000003,scotland,Killed or seriously injured (KSI) adjusted,220
+2010,K02000001,great-britain,Killed or seriously injured (KSI) adjusted,1980
+2021,E12000001,north-east,Slightly injured (unadjusted),160
+2021,E12000002,north-west,Slightly injured (unadjusted),530
+2021,E12000003,yorkshire-and-humberside,Slightly injured (unadjusted),440
+2021,E12000004,east-midlands,Slightly injured (unadjusted),520
+2021,E12000005,west-midlands,Slightly injured (unadjusted),400
+2021,E12000006,eastern,Slightly injured (unadjusted),600
+2021,E12000007,south-east,Slightly injured (unadjusted),920
+2021,E12000008,london,Slightly injured (unadjusted),540
+2021,E12000009,south-west,Slightly injured (unadjusted),540
+2021,E92000001,england,Slightly injured (unadjusted),4660
+2021,W92000004,wales,Slightly injured (unadjusted),230
+2021,S92000003,scotland,Slightly injured (unadjusted),130
+2021,K02000001,great-britain,Slightly injured (unadjusted),5020
+2020,E12000001,north-east,Slightly injured (unadjusted),150
+2020,E12000002,north-west,Slightly injured (unadjusted),480
+2020,E12000003,yorkshire-and-humberside,Slightly injured (unadjusted),400
+2020,E12000004,east-midlands,Slightly injured (unadjusted),550
+2020,E12000005,west-midlands,Slightly injured (unadjusted),460
+2020,E12000006,eastern,Slightly injured (unadjusted),580
+2020,E12000007,south-east,Slightly injured (unadjusted),980
+2020,E12000008,london,Slightly injured (unadjusted),600
+2020,E12000009,south-west,Slightly injured (unadjusted),470
+2020,E92000001,england,Slightly injured (unadjusted),4670
+2020,W92000004,wales,Slightly injured (unadjusted),240
+2020,S92000003,scotland,Slightly injured (unadjusted),170
+2020,K02000001,great-britain,Slightly injured (unadjusted),5080
+2019,E12000001,north-east,Slightly injured (unadjusted),190
+2019,E12000002,north-west,Slightly injured (unadjusted),650
+2019,E12000003,yorkshire-and-humberside,Slightly injured (unadjusted),490
+2019,E12000004,east-midlands,Slightly injured (unadjusted),610
+2019,E12000005,west-midlands,Slightly injured (unadjusted),430
+2019,E12000006,eastern,Slightly injured (unadjusted),710
+2019,E12000007,south-east,Slightly injured (unadjusted),1090
+2019,E12000008,london,Slightly injured (unadjusted),720
+2019,E12000009,south-west,Slightly injured (unadjusted),640
+2019,E92000001,england,Slightly injured (unadjusted),5510
+2019,W92000004,wales,Slightly injured (unadjusted),300
+2019,S92000003,scotland,Slightly injured (unadjusted),240
+2019,K02000001,great-britain,Slightly injured (unadjusted),6050
+2018,E12000001,north-east,Slightly injured (unadjusted),270
+2018,E12000002,north-west,Slightly injured (unadjusted),750
+2018,E12000003,yorkshire-and-humberside,Slightly injured (unadjusted),560
+2018,E12000004,east-midlands,Slightly injured (unadjusted),690
+2018,E12000005,west-midlands,Slightly injured (unadjusted),660
+2018,E12000006,eastern,Slightly injured (unadjusted),750
+2018,E12000007,south-east,Slightly injured (unadjusted),1270
+2018,E12000008,london,Slightly injured (unadjusted),950
+2018,E12000009,south-west,Slightly injured (unadjusted),630
+2018,E92000001,england,Slightly injured (unadjusted),6530
+2018,W92000004,wales,Slightly injured (unadjusted),300
+2018,S92000003,scotland,Slightly injured (unadjusted),310
+2018,K02000001,great-britain,Slightly injured (unadjusted),7130
+2017,E12000001,north-east,Slightly injured (unadjusted),260
+2017,E12000002,north-west,Slightly injured (unadjusted),690
+2017,E12000003,yorkshire-and-humberside,Slightly injured (unadjusted),520
+2017,E12000004,east-midlands,Slightly injured (unadjusted),580
+2017,E12000005,west-midlands,Slightly injured (unadjusted),640
+2017,E12000006,eastern,Slightly injured (unadjusted),810
+2017,E12000007,south-east,Slightly injured (unadjusted),1270
+2017,E12000008,london,Slightly injured (unadjusted),1040
+2017,E12000009,south-west,Slightly injured (unadjusted),650
+2017,E92000001,england,Slightly injured (unadjusted),6440
+2017,W92000004,wales,Slightly injured (unadjusted),240
+2017,S92000003,scotland,Slightly injured (unadjusted),320
+2017,K02000001,great-britain,Slightly injured (unadjusted),7000
+2016,E12000001,north-east,Slightly injured (unadjusted),270
+2016,E12000002,north-west,Slightly injured (unadjusted),720
+2016,E12000003,yorkshire-and-humberside,Slightly injured (unadjusted),660
+2016,E12000004,east-midlands,Slightly injured (unadjusted),670
+2016,E12000005,west-midlands,Slightly injured (unadjusted),780
+2016,E12000006,eastern,Slightly injured (unadjusted),840
+2016,E12000007,south-east,Slightly injured (unadjusted),1420
+2016,E12000008,london,Slightly injured (unadjusted),620
+2016,E12000009,south-west,Slightly injured (unadjusted),790
+2016,E92000001,england,Slightly injured (unadjusted),6770
+2016,W92000004,wales,Slightly injured (unadjusted),340
+2016,S92000003,scotland,Slightly injured (unadjusted),460
+2016,K02000001,great-britain,Slightly injured (unadjusted),7570
+2015,E12000001,north-east,Slightly injured (unadjusted),280
+2015,E12000002,north-west,Slightly injured (unadjusted),710
+2015,E12000003,yorkshire-and-humberside,Slightly injured (unadjusted),690
+2015,E12000004,east-midlands,Slightly injured (unadjusted),650
+2015,E12000005,west-midlands,Slightly injured (unadjusted),910
+2015,E12000006,eastern,Slightly injured (unadjusted),740
+2015,E12000007,south-east,Slightly injured (unadjusted),1250
+2015,E12000008,london,Slightly injured (unadjusted),490
+2015,E12000009,south-west,Slightly injured (unadjusted),650
+2015,E92000001,england,Slightly injured (unadjusted),6370
+2015,W92000004,wales,Slightly injured (unadjusted),380
+2015,S92000003,scotland,Slightly injured (unadjusted),370
+2015,K02000001,great-britain,Slightly injured (unadjusted),7120
+2014,E12000001,north-east,Slightly injured (unadjusted),290
+2014,E12000002,north-west,Slightly injured (unadjusted),800
+2014,E12000003,yorkshire-and-humberside,Slightly injured (unadjusted),600
+2014,E12000004,east-midlands,Slightly injured (unadjusted),640
+2014,E12000005,west-midlands,Slightly injured (unadjusted),790
+2014,E12000006,eastern,Slightly injured (unadjusted),760
+2014,E12000007,south-east,Slightly injured (unadjusted),1160
+2014,E12000008,london,Slightly injured (unadjusted),440
+2014,E12000009,south-west,Slightly injured (unadjusted),630
+2014,E92000001,england,Slightly injured (unadjusted),6110
+2014,W92000004,wales,Slightly injured (unadjusted),410
+2014,S92000003,scotland,Slightly injured (unadjusted),380
+2014,K02000001,great-britain,Slightly injured (unadjusted),6900
+2013,E12000001,north-east,Slightly injured (unadjusted),270
+2013,E12000002,north-west,Slightly injured (unadjusted),860
+2013,E12000003,yorkshire-and-humberside,Slightly injured (unadjusted),650
+2013,E12000004,east-midlands,Slightly injured (unadjusted),690
+2013,E12000005,west-midlands,Slightly injured (unadjusted),720
+2013,E12000006,eastern,Slightly injured (unadjusted),740
+2013,E12000007,south-east,Slightly injured (unadjusted),1130
+2013,E12000008,london,Slightly injured (unadjusted),420
+2013,E12000009,south-west,Slightly injured (unadjusted),650
+2013,E92000001,england,Slightly injured (unadjusted),6140
+2013,W92000004,wales,Slightly injured (unadjusted),430
+2013,S92000003,scotland,Slightly injured (unadjusted),360
+2013,K02000001,great-britain,Slightly injured (unadjusted),6930
+2012,E12000001,north-east,Slightly injured (unadjusted),370
+2012,E12000002,north-west,Slightly injured (unadjusted),980
+2012,E12000003,yorkshire-and-humberside,Slightly injured (unadjusted),810
+2012,E12000004,east-midlands,Slightly injured (unadjusted),840
+2012,E12000005,west-midlands,Slightly injured (unadjusted),960
+2012,E12000006,eastern,Slightly injured (unadjusted),920
+2012,E12000007,south-east,Slightly injured (unadjusted),1380
+2012,E12000008,london,Slightly injured (unadjusted),470
+2012,E12000009,south-west,Slightly injured (unadjusted),810
+2012,E92000001,england,Slightly injured (unadjusted),7550
+2012,W92000004,wales,Slightly injured (unadjusted),480
+2012,S92000003,scotland,Slightly injured (unadjusted),470
+2012,K02000001,great-britain,Slightly injured (unadjusted),8510
+2011,E12000001,north-east,Slightly injured (unadjusted),350
+2011,E12000002,north-west,Slightly injured (unadjusted),960
+2011,E12000003,yorkshire-and-humberside,Slightly injured (unadjusted),890
+2011,E12000004,east-midlands,Slightly injured (unadjusted),850
+2011,E12000005,west-midlands,Slightly injured (unadjusted),970
+2011,E12000006,eastern,Slightly injured (unadjusted),860
+2011,E12000007,south-east,Slightly injured (unadjusted),1310
+2011,E12000008,london,Slightly injured (unadjusted),460
+2011,E12000009,south-west,Slightly injured (unadjusted),740
+2011,E92000001,england,Slightly injured (unadjusted),7400
+2011,W92000004,wales,Slightly injured (unadjusted),460
+2011,S92000003,scotland,Slightly injured (unadjusted),570
+2011,K02000001,great-britain,Slightly injured (unadjusted),8420
+2010,E12000001,north-east,Slightly injured (unadjusted),370
+2010,E12000002,north-west,Slightly injured (unadjusted),930
+2010,E12000003,yorkshire-and-humberside,Slightly injured (unadjusted),590
+2010,E12000004,east-midlands,Slightly injured (unadjusted),770
+2010,E12000005,west-midlands,Slightly injured (unadjusted),980
+2010,E12000006,eastern,Slightly injured (unadjusted),870
+2010,E12000007,south-east,Slightly injured (unadjusted),1320
+2010,E12000008,london,Slightly injured (unadjusted),470
+2010,E12000009,south-west,Slightly injured (unadjusted),770
+2010,E92000001,england,Slightly injured (unadjusted),7080
+2010,W92000004,wales,Slightly injured (unadjusted),520
+2010,S92000003,scotland,Slightly injured (unadjusted),610
+2010,K02000001,great-britain,Slightly injured (unadjusted),8210
+2021,E12000001,north-east,Slightly injured (adjusted),160
+2021,E12000002,north-west,Slightly injured (adjusted),510
+2021,E12000003,yorkshire-and-humberside,Slightly injured (adjusted),430
+2021,E12000004,east-midlands,Slightly injured (adjusted),470
+2021,E12000005,west-midlands,Slightly injured (adjusted),400
+2021,E12000006,eastern,Slightly injured (adjusted),600
+2021,E12000007,south-east,Slightly injured (adjusted),890
+2021,E12000008,london,Slightly injured (adjusted),540
+2021,E12000009,south-west,Slightly injured (adjusted),520
+2021,E92000001,england,Slightly injured (adjusted),4520
+2021,W92000004,wales,Slightly injured (adjusted),210
+2021,S92000003,scotland,Slightly injured (adjusted),130
+2021,K02000001,great-britain,Slightly injured (adjusted),4860
+2020,E12000001,north-east,Slightly injured (adjusted),140
+2020,E12000002,north-west,Slightly injured (adjusted),460
+2020,E12000003,yorkshire-and-humberside,Slightly injured (adjusted),380
+2020,E12000004,east-midlands,Slightly injured (adjusted),510
+2020,E12000005,west-midlands,Slightly injured (adjusted),460
+2020,E12000006,eastern,Slightly injured (adjusted),580
+2020,E12000007,south-east,Slightly injured (adjusted),950
+2020,E12000008,london,Slightly injured (adjusted),600
+2020,E12000009,south-west,Slightly injured (adjusted),460
+2020,E92000001,england,Slightly injured (adjusted),4540
+2020,W92000004,wales,Slightly injured (adjusted),220
+2020,S92000003,scotland,Slightly injured (adjusted),170
+2020,K02000001,great-britain,Slightly injured (adjusted),4930
+2019,E12000001,north-east,Slightly injured (adjusted),180
+2019,E12000002,north-west,Slightly injured (adjusted),620
+2019,E12000003,yorkshire-and-humberside,Slightly injured (adjusted),470
+2019,E12000004,east-midlands,Slightly injured (adjusted),560
+2019,E12000005,west-midlands,Slightly injured (adjusted),420
+2019,E12000006,eastern,Slightly injured (adjusted),710
+2019,E12000007,south-east,Slightly injured (adjusted),1050
+2019,E12000008,london,Slightly injured (adjusted),720
+2019,E12000009,south-west,Slightly injured (adjusted),620
+2019,E92000001,england,Slightly injured (adjusted),5340
+2019,W92000004,wales,Slightly injured (adjusted),270
+2019,S92000003,scotland,Slightly injured (adjusted),220
+2019,K02000001,great-britain,Slightly injured (adjusted),5830
+2018,E12000001,north-east,Slightly injured (adjusted),270
+2018,E12000002,north-west,Slightly injured (adjusted),690
+2018,E12000003,yorkshire-and-humberside,Slightly injured (adjusted),530
+2018,E12000004,east-midlands,Slightly injured (adjusted),640
+2018,E12000005,west-midlands,Slightly injured (adjusted),660
+2018,E12000006,eastern,Slightly injured (adjusted),750
+2018,E12000007,south-east,Slightly injured (adjusted),1220
+2018,E12000008,london,Slightly injured (adjusted),950
+2018,E12000009,south-west,Slightly injured (adjusted),610
+2018,E92000001,england,Slightly injured (adjusted),6330
+2018,W92000004,wales,Slightly injured (adjusted),280
+2018,S92000003,scotland,Slightly injured (adjusted),260
+2018,K02000001,great-britain,Slightly injured (adjusted),6870
+2017,E12000001,north-east,Slightly injured (adjusted),260
+2017,E12000002,north-west,Slightly injured (adjusted),640
+2017,E12000003,yorkshire-and-humberside,Slightly injured (adjusted),490
+2017,E12000004,east-midlands,Slightly injured (adjusted),530
+2017,E12000005,west-midlands,Slightly injured (adjusted),640
+2017,E12000006,eastern,Slightly injured (adjusted),810
+2017,E12000007,south-east,Slightly injured (adjusted),1220
+2017,E12000008,london,Slightly injured (adjusted),1030
+2017,E12000009,south-west,Slightly injured (adjusted),620
+2017,E92000001,england,Slightly injured (adjusted),6260
+2017,W92000004,wales,Slightly injured (adjusted),220
+2017,S92000003,scotland,Slightly injured (adjusted),270
+2017,K02000001,great-britain,Slightly injured (adjusted),6750
+2016,E12000001,north-east,Slightly injured (adjusted),260
+2016,E12000002,north-west,Slightly injured (adjusted),670
+2016,E12000003,yorkshire-and-humberside,Slightly injured (adjusted),640
+2016,E12000004,east-midlands,Slightly injured (adjusted),620
+2016,E12000005,west-midlands,Slightly injured (adjusted),780
+2016,E12000006,eastern,Slightly injured (adjusted),830
+2016,E12000007,south-east,Slightly injured (adjusted),1380
+2016,E12000008,london,Slightly injured (adjusted),600
+2016,E12000009,south-west,Slightly injured (adjusted),760
+2016,E92000001,england,Slightly injured (adjusted),6540
+2016,W92000004,wales,Slightly injured (adjusted),310
+2016,S92000003,scotland,Slightly injured (adjusted),390
+2016,K02000001,great-britain,Slightly injured (adjusted),7240
+2015,E12000001,north-east,Slightly injured (adjusted),270
+2015,E12000002,north-west,Slightly injured (adjusted),650
+2015,E12000003,yorkshire-and-humberside,Slightly injured (adjusted),640
+2015,E12000004,east-midlands,Slightly injured (adjusted),610
+2015,E12000005,west-midlands,Slightly injured (adjusted),890
+2015,E12000006,eastern,Slightly injured (adjusted),700
+2015,E12000007,south-east,Slightly injured (adjusted),1190
+2015,E12000008,london,Slightly injured (adjusted),460
+2015,E12000009,south-west,Slightly injured (adjusted),630
+2015,E92000001,england,Slightly injured (adjusted),6040
+2015,W92000004,wales,Slightly injured (adjusted),350
+2015,S92000003,scotland,Slightly injured (adjusted),310
+2015,K02000001,great-britain,Slightly injured (adjusted),6700
+2014,E12000001,north-east,Slightly injured (adjusted),270
+2014,E12000002,north-west,Slightly injured (adjusted),740
+2014,E12000003,yorkshire-and-humberside,Slightly injured (adjusted),550
+2014,E12000004,east-midlands,Slightly injured (adjusted),600
+2014,E12000005,west-midlands,Slightly injured (adjusted),750
+2014,E12000006,eastern,Slightly injured (adjusted),720
+2014,E12000007,south-east,Slightly injured (adjusted),1100
+2014,E12000008,london,Slightly injured (adjusted),420
+2014,E12000009,south-west,Slightly injured (adjusted),610
+2014,E92000001,england,Slightly injured (adjusted),5760
+2014,W92000004,wales,Slightly injured (adjusted),380
+2014,S92000003,scotland,Slightly injured (adjusted),320
+2014,K02000001,great-britain,Slightly injured (adjusted),6460
+2013,E12000001,north-east,Slightly injured (adjusted),250
+2013,E12000002,north-west,Slightly injured (adjusted),800
+2013,E12000003,yorkshire-and-humberside,Slightly injured (adjusted),600
+2013,E12000004,east-midlands,Slightly injured (adjusted),640
+2013,E12000005,west-midlands,Slightly injured (adjusted),690
+2013,E12000006,eastern,Slightly injured (adjusted),700
+2013,E12000007,south-east,Slightly injured (adjusted),1080
+2013,E12000008,london,Slightly injured (adjusted),400
+2013,E12000009,south-west,Slightly injured (adjusted),620
+2013,E92000001,england,Slightly injured (adjusted),5780
+2013,W92000004,wales,Slightly injured (adjusted),400
+2013,S92000003,scotland,Slightly injured (adjusted),310
+2013,K02000001,great-britain,Slightly injured (adjusted),6490
+2012,E12000001,north-east,Slightly injured (adjusted),350
+2012,E12000002,north-west,Slightly injured (adjusted),910
+2012,E12000003,yorkshire-and-humberside,Slightly injured (adjusted),750
+2012,E12000004,east-midlands,Slightly injured (adjusted),790
+2012,E12000005,west-midlands,Slightly injured (adjusted),910
+2012,E12000006,eastern,Slightly injured (adjusted),880
+2012,E12000007,south-east,Slightly injured (adjusted),1320
+2012,E12000008,london,Slightly injured (adjusted),450
+2012,E12000009,south-west,Slightly injured (adjusted),790
+2012,E92000001,england,Slightly injured (adjusted),7140
+2012,W92000004,wales,Slightly injured (adjusted),450
+2012,S92000003,scotland,Slightly injured (adjusted),410
+2012,K02000001,great-britain,Slightly injured (adjusted),8000
+2011,E12000001,north-east,Slightly injured (adjusted),320
+2011,E12000002,north-west,Slightly injured (adjusted),890
+2011,E12000003,yorkshire-and-humberside,Slightly injured (adjusted),820
+2011,E12000004,east-midlands,Slightly injured (adjusted),800
+2011,E12000005,west-midlands,Slightly injured (adjusted),920
+2011,E12000006,eastern,Slightly injured (adjusted),820
+2011,E12000007,south-east,Slightly injured (adjusted),1250
+2011,E12000008,london,Slightly injured (adjusted),430
+2011,E12000009,south-west,Slightly injured (adjusted),720
+2011,E92000001,england,Slightly injured (adjusted),6960
+2011,W92000004,wales,Slightly injured (adjusted),430
+2011,S92000003,scotland,Slightly injured (adjusted),480
+2011,K02000001,great-britain,Slightly injured (adjusted),7870
+2010,E12000001,north-east,Slightly injured (adjusted),350
+2010,E12000002,north-west,Slightly injured (adjusted),860
+2010,E12000003,yorkshire-and-humberside,Slightly injured (adjusted),550
+2010,E12000004,east-midlands,Slightly injured (adjusted),720
+2010,E12000005,west-midlands,Slightly injured (adjusted),930
+2010,E12000006,eastern,Slightly injured (adjusted),830
+2010,E12000007,south-east,Slightly injured (adjusted),1260
+2010,E12000008,london,Slightly injured (adjusted),440
+2010,E12000009,south-west,Slightly injured (adjusted),750
+2010,E92000001,england,Slightly injured (adjusted),6700
+2010,W92000004,wales,Slightly injured (adjusted),490
+2010,S92000003,scotland,Slightly injured (adjusted),520
+2010,K02000001,great-britain,Slightly injured (adjusted),7710
+2021,E12000001,north-east,Total casualties,230
+2021,E12000002,north-west,Total casualties,690
+2021,E12000003,yorkshire-and-humberside,Total casualties,650
+2021,E12000004,east-midlands,Total casualties,660
+2021,E12000005,west-midlands,Total casualties,560
+2021,E12000006,eastern,Total casualties,830
+2021,E12000007,south-east,Total casualties,1210
+2021,E12000008,london,Total casualties,660
+2021,E12000009,south-west,Total casualties,710
+2021,E92000001,england,Total casualties,6210
+2021,W92000004,wales,Total casualties,320
+2021,S92000003,scotland,Total casualties,210
+2021,K02000001,great-britain,Total casualties,6740
+2020,E12000001,north-east,Total casualties,200
+2020,E12000002,north-west,Total casualties,630
+2020,E12000003,yorkshire-and-humberside,Total casualties,550
+2020,E12000004,east-midlands,Total casualties,680
+2020,E12000005,west-midlands,Total casualties,590
+2020,E12000006,eastern,Total casualties,720
+2020,E12000007,south-east,Total casualties,1230
+2020,E12000008,london,Total casualties,710
+2020,E12000009,south-west,Total casualties,590
+2020,E92000001,england,Total casualties,5890
+2020,W92000004,wales,Total casualties,310
+2020,S92000003,scotland,Total casualties,250
+2020,K02000001,great-britain,Total casualties,6450
+2019,E12000001,north-east,Total casualties,250
+2019,E12000002,north-west,Total casualties,840
+2019,E12000003,yorkshire-and-humberside,Total casualties,660
+2019,E12000004,east-midlands,Total casualties,770
+2019,E12000005,west-midlands,Total casualties,580
+2019,E12000006,eastern,Total casualties,900
+2019,E12000007,south-east,Total casualties,1400
+2019,E12000008,london,Total casualties,860
+2019,E12000009,south-west,Total casualties,800
+2019,E92000001,england,Total casualties,7050
+2019,W92000004,wales,Total casualties,400
+2019,S92000003,scotland,Total casualties,350
+2019,K02000001,great-britain,Total casualties,7800
+2018,E12000001,north-east,Total casualties,340
+2018,E12000002,north-west,Total casualties,930
+2018,E12000003,yorkshire-and-humberside,Total casualties,740
+2018,E12000004,east-midlands,Total casualties,870
+2018,E12000005,west-midlands,Total casualties,750
+2018,E12000006,eastern,Total casualties,890
+2018,E12000007,south-east,Total casualties,1550
+2018,E12000008,london,Total casualties,1090
+2018,E12000009,south-west,Total casualties,770
+2018,E92000001,england,Total casualties,7920
+2018,W92000004,wales,Total casualties,380
+2018,S92000003,scotland,Total casualties,400
+2018,K02000001,great-britain,Total casualties,8700
+2017,E12000001,north-east,Total casualties,320
+2017,E12000002,north-west,Total casualties,850
+2017,E12000003,yorkshire-and-humberside,Total casualties,690
+2017,E12000004,east-midlands,Total casualties,720
+2017,E12000005,west-midlands,Total casualties,790
+2017,E12000006,eastern,Total casualties,1000
+2017,E12000007,south-east,Total casualties,1530
+2017,E12000008,london,Total casualties,1170
+2017,E12000009,south-west,Total casualties,800
+2017,E92000001,england,Total casualties,7870
+2017,W92000004,wales,Total casualties,330
+2017,S92000003,scotland,Total casualties,410
+2017,K02000001,great-britain,Total casualties,8600
+2016,E12000001,north-east,Total casualties,330
+2016,E12000002,north-west,Total casualties,860
+2016,E12000003,yorkshire-and-humberside,Total casualties,820
+2016,E12000004,east-midlands,Total casualties,780
+2016,E12000005,west-midlands,Total casualties,920
+2016,E12000006,eastern,Total casualties,1030
+2016,E12000007,south-east,Total casualties,1700
+2016,E12000008,london,Total casualties,680
+2016,E12000009,south-west,Total casualties,920
+2016,E92000001,england,Total casualties,8030
+2016,W92000004,wales,Total casualties,420
+2016,S92000003,scotland,Total casualties,580
+2016,K02000001,great-britain,Total casualties,9030
+2015,E12000001,north-east,Total casualties,340
+2015,E12000002,north-west,Total casualties,870
+2015,E12000003,yorkshire-and-humberside,Total casualties,810
+2015,E12000004,east-midlands,Total casualties,780
+2015,E12000005,west-midlands,Total casualties,1040
+2015,E12000006,eastern,Total casualties,870
+2015,E12000007,south-east,Total casualties,1470
+2015,E12000008,london,Total casualties,540
+2015,E12000009,south-west,Total casualties,790
+2015,E92000001,england,Total casualties,7510
+2015,W92000004,wales,Total casualties,490
+2015,S92000003,scotland,Total casualties,470
+2015,K02000001,great-britain,Total casualties,8470
+2014,E12000001,north-east,Total casualties,340
+2014,E12000002,north-west,Total casualties,960
+2014,E12000003,yorkshire-and-humberside,Total casualties,740
+2014,E12000004,east-midlands,Total casualties,770
+2014,E12000005,west-midlands,Total casualties,910
+2014,E12000006,eastern,Total casualties,900
+2014,E12000007,south-east,Total casualties,1400
+2014,E12000008,london,Total casualties,480
+2014,E12000009,south-west,Total casualties,770
+2014,E92000001,england,Total casualties,7260
+2014,W92000004,wales,Total casualties,480
+2014,S92000003,scotland,Total casualties,470
+2014,K02000001,great-britain,Total casualties,8210
+2013,E12000001,north-east,Total casualties,320
+2013,E12000002,north-west,Total casualties,1030
+2013,E12000003,yorkshire-and-humberside,Total casualties,840
+2013,E12000004,east-midlands,Total casualties,810
+2013,E12000005,west-midlands,Total casualties,820
+2013,E12000006,eastern,Total casualties,900
+2013,E12000007,south-east,Total casualties,1340
+2013,E12000008,london,Total casualties,480
+2013,E12000009,south-west,Total casualties,770
+2013,E92000001,england,Total casualties,7310
+2013,W92000004,wales,Total casualties,520
+2013,S92000003,scotland,Total casualties,450
+2013,K02000001,great-britain,Total casualties,8270
+2012,E12000001,north-east,Total casualties,420
+2012,E12000002,north-west,Total casualties,1140
+2012,E12000003,yorkshire-and-humberside,Total casualties,980
+2012,E12000004,east-midlands,Total casualties,1000
+2012,E12000005,west-midlands,Total casualties,1100
+2012,E12000006,eastern,Total casualties,1070
+2012,E12000007,south-east,Total casualties,1580
+2012,E12000008,london,Total casualties,540
+2012,E12000009,south-west,Total casualties,960
+2012,E92000001,england,Total casualties,8790
+2012,W92000004,wales,Total casualties,560
+2012,S92000003,scotland,Total casualties,580
+2012,K02000001,great-britain,Total casualties,9930
+2011,E12000001,north-east,Total casualties,390
+2011,E12000002,north-west,Total casualties,1160
+2011,E12000003,yorkshire-and-humberside,Total casualties,1050
+2011,E12000004,east-midlands,Total casualties,990
+2011,E12000005,west-midlands,Total casualties,1110
+2011,E12000006,eastern,Total casualties,1030
+2011,E12000007,south-east,Total casualties,1570
+2011,E12000008,london,Total casualties,520
+2011,E12000009,south-west,Total casualties,870
+2011,E92000001,england,Total casualties,8700
+2011,W92000004,wales,Total casualties,550
+2011,S92000003,scotland,Total casualties,670
+2011,K02000001,great-britain,Total casualties,9930
+2010,E12000001,north-east,Total casualties,440
+2010,E12000002,north-west,Total casualties,1110
+2010,E12000003,yorkshire-and-humberside,Total casualties,720
+2010,E12000004,east-midlands,Total casualties,940
+2010,E12000005,west-midlands,Total casualties,1090
+2010,E12000006,eastern,Total casualties,1050
+2010,E12000007,south-east,Total casualties,1570
+2010,E12000008,london,Total casualties,530
+2010,E12000009,south-west,Total casualties,910
+2010,E92000001,england,Total casualties,8340
+2010,W92000004,wales,Total casualties,610
+2010,S92000003,scotland,Total casualties,740
+2010,K02000001,great-britain,Total casualties,9690
